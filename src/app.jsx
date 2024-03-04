@@ -1,24 +1,12 @@
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
-import Home from '../src/components/home/home';
-import Countries from '../src/components/countries/countries';
+import { RouterProvider } from 'react-router-dom';
 import GlobalStyle from './common/css/globalStyle';
-import Options from './components/options/option';
+import router from './router/router';
 const App = () => {
     return (
-        <BrowserRouter>
+        <>
             <GlobalStyle />
-            <Switch>
-                <Route exact path="/">
-                    <Home />
-                </Route>
-                <Route exact path="/tripMBTI">
-                    <Options />
-                </Route>
-                <Route>
-                    <Route path="/result/:countryName" component={Countries} />
-                </Route>
-            </Switch>
-        </BrowserRouter>
+            <RouterProvider router={router}/>
+        </>
     );
 };
 

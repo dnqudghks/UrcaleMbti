@@ -1,17 +1,17 @@
-import styles from './countries.module.css';
-import { Link } from 'react-router-dom';
-import Countries from '../../common/api/countriesApi/../countriesApi';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faSignOutAlt, faCopy } from '@fortawesome/free-solid-svg-icons';
 import { faEarlybirds } from '@fortawesome/free-brands-svg-icons';
+import { faCopy, faSignOutAlt } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { CopyToClipboard } from 'react-copy-to-clipboard';
-// import KakaoBtn from '../shareSNS/kakaoShareButton';
+import { Link, useParams } from 'react-router-dom';
+import Countries from '../../common/api/countriesApi/../countriesApi';
 import FacebookBtn from '../shareSNS/facebookShareButton';
+import KakaoBtn from '../shareSNS/kakaoShareButton';
 import TwitterBtn from '../shareSNS/twitterShareButton';
+import styles from './countries.module.css';
 
-const Profile = ({ match }) => {
+const Profile = () => {
     const url = window.location.href;
-    const { countryName } = match.params;
+    const {countryName} = useParams();
     const nation = Countries[countryName];
 
     if (!nation) {
@@ -66,7 +66,7 @@ const Profile = ({ match }) => {
                                 <img
                                     src={nation.duo[0].img}
                                     alt="mbti캐릭터"
-                                    Link="/"
+                                    /* Link="/" */
                                 />
                             </a>
                             <div>
@@ -97,7 +97,7 @@ const Profile = ({ match }) => {
                         </div>
                     </div>
                     <div className={styles.shareBox}>
-                        {/* <KakaoBtn /> */}
+                        <KakaoBtn />
                         <FacebookBtn />
                         <TwitterBtn />
                     </div>
