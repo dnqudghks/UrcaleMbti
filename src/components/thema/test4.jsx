@@ -1,7 +1,7 @@
 import React, { Suspense, createRef, useEffect, useState } from 'react';
-import styles from './option.module.css';
+import styles from './trip.module.css';
 import { useNavigate } from 'react-router-dom';
-import Questions from '../../common/api/questionsApi/../questionsApi';
+import Questions from '../../common/api/questionsApi/../test4/questionsApi';
 
 const Options = () => {
     const [loading, setLoading] = useState(false);
@@ -58,14 +58,9 @@ const Options = () => {
                     <div className={styles.slider} ref={slideRef}>
                         {Questions.map((item) => {
                             return (
-                                <div
-                                    className={styles.content}
-                                    key={item.id}
-                                >
+                                <div className={styles.content} key={item.id}>
                                     <div className={styles.top}>
-                                        <div
-                                            className={styles.mbti__counter}
-                                        >
+                                        <div className={styles.mbti__counter}>
                                             <span
                                                 className={
                                                     styles.mbti__progress__color
@@ -81,17 +76,11 @@ const Options = () => {
                                                 /{TOTAL_SLIDES}
                                             </span>
                                         </div>
-                                        <h1
-                                            className={
-                                                styles.mbti__question
-                                            }
-                                        >
+                                        <h1 className={styles.mbti__question}>
                                             {item.question}
                                         </h1>
                                     </div>
-                                    <article
-                                        className={styles.mbti__btn__box}
-                                    >
+                                    <article className={styles.mbti__btn__box}>
                                         <button
                                             className={styles.mbti__button}
                                             onClick={nextSlideFir}

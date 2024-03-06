@@ -7,7 +7,11 @@ import {
 
 const TripHome = loadable(() => import('../components/home/home'));
 const UracleHome = loadable(() => import('../components/home/uracleHome'));
-const Option = loadable(() => import('../components/options/option'));
+const Trip = loadable(() => import('../components/thema/trip'));
+const Test1 = loadable(() => import('../components/thema/test1'));
+const Test2 = loadable(() => import('../components/thema/test2'));
+const Test3 = loadable(() => import('../components/thema/test3'));
+const Test4 = loadable(() => import('../components/thema/test4'));
 const Countries = loadable(() => import('../components/countries/countries'));
 
 const router = createBrowserRouter(
@@ -15,7 +19,11 @@ const router = createBrowserRouter(
         <>
             <Route path="/" element={<UracleHome />} />
             <Route path="/tripHome" element={<TripHome />} />
-            <Route path="/tripMBTI" element={<Option />} />
+            <Route path="/tripMbti" element={<Trip />} />
+            <Route path="/test1" element={<Test1 />} />
+            <Route path="/test2" element={<Test2 />} />
+            <Route path="/test3" element={<Test3 />} />
+            <Route path="/test4" element={<Test4 />} />
             <Route path="result/:countryName" element={<Countries />} />
             <Route path="*" element={'no match page'} />
         </>

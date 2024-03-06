@@ -38,35 +38,35 @@ const Home = () => {
                         <br />
                     </div>
                     <div className={styles.bottom}>
-                        <Link to="/tripMBTI" className={styles.start__button}>
+                        <Link to="/tripMbti" className={styles.start__button}>
                             추천 여행지 테스트
                             <FontAwesomeIcon
                                 icon={faArrowAltCircleRight}
                                 className={styles.icon}
                             />
                         </Link>
-                        <Link to="/tripMBTI" className={styles.start__button}>
+                        <Link to="/test1" className={styles.start__button}>
                             2 테스트
                             <FontAwesomeIcon
                                 icon={faArrowAltCircleRight}
                                 className={styles.icon}
                             />
                         </Link>
-                        <Link to="/tripMBTI" className={styles.start__button}>
+                        <Link to="/test2" className={styles.start__button}>
                             3 테스트
                             <FontAwesomeIcon
                                 icon={faArrowAltCircleRight}
                                 className={styles.icon}
                             />
                         </Link>
-                        <Link to="/tripMBTI" className={styles.start__button}>
+                        <Link to="/test3" className={styles.start__button}>
                             4 테스트
                             <FontAwesomeIcon
                                 icon={faArrowAltCircleRight}
                                 className={styles.icon}
                             />
                         </Link>
-                        <Link to="/tripMBTI" className={styles.start__button}>
+                        <Link to="/test4" className={styles.start__button}>
                             5 테스트
                             <FontAwesomeIcon
                                 icon={faArrowAltCircleRight}
