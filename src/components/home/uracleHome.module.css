@@ -74,12 +74,23 @@
     justify-content: center;
     margin-top: 10px;
 }
+
 .start__button:active {
     color: #fff;
     background-color: #1853c2;
     transform: scale(0.95);
     transition: 10ms;
     border: none;
+}
+
+.start__button:hover {
+    background-color: #1853c2; /* 마우스를 올렸을 때 배경색 변경 */
+    color: #fff; /* 마우스를 올렸을 때 텍스트 색상 변경 */
+}
+
+.copy__button:hover {
+    background-color: #1853c2; /* 마우스를 올렸을 때 배경색 변경 */
+    color: #fff; /* 마우스를 올렸을 때 텍스트 색상 변경 */
 }
 
 .top {

@@ -11,8 +11,8 @@ import styles from './countries.module.css';
 
 const Profile = () => {
     const url = window.location.href;
-    const { countryName } = useParams();
-    const nation = Countries[countryName];
+    const { test4Name } = useParams();
+    const nation = Countries[test4Name];
 
     if (!nation) {
         return <div>존재하지 않는 결과입니다.</div>;
@@ -103,6 +103,13 @@ const Profile = () => {
                     </div>
                     <div className={styles.button__box}>
                         <Link to="/" className={styles.button}>
+                            처음으로
+                            <FontAwesomeIcon
+                                icon={faSignOutAlt}
+                                className={styles.icon}
+                            />
+                        </Link>
+                        <Link to="/test4Home" className={styles.button}>
                             다시하기
                             <FontAwesomeIcon
                                 icon={faSignOutAlt}

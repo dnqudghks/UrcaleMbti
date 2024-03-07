@@ -103,6 +103,13 @@ const Profile = () => {
                     </div>
                     <div className={styles.button__box}>
                         <Link to="/" className={styles.button}>
+                            처음으로
+                            <FontAwesomeIcon
+                                icon={faSignOutAlt}
+                                className={styles.icon}
+                            />
+                        </Link>
+                        <Link to="/tripHome" className={styles.button}>
                             다시하기
                             <FontAwesomeIcon
                                 icon={faSignOutAlt}

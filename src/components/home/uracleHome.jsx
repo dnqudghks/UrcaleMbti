@@ -38,35 +38,35 @@ const Home = () => {
                         <br />
                     </div>
                     <div className={styles.bottom}>
-                        <Link to="/tripMbti" className={styles.start__button}>
+                        <Link to="/tripHome" className={styles.start__button}>
                             추천 여행지 테스트
                             <FontAwesomeIcon
                                 icon={faArrowAltCircleRight}
                                 className={styles.icon}
                             />
                         </Link>
-                        <Link to="/test1" className={styles.start__button}>
+                        <Link to="/test1Home" className={styles.start__button}>
                             찰떡 직업 MBTI 테스트
                             <FontAwesomeIcon
                                 icon={faArrowAltCircleRight}
                                 className={styles.icon}
                             />
                         </Link>
-                        <Link to="/test2" className={styles.start__button}>
+                        <Link to="/test2Home" className={styles.start__button}>
                             퍼스널 컬러 셩격 유형 테스트
                             <FontAwesomeIcon
                                 icon={faArrowAltCircleRight}
                                 className={styles.icon}
                             />
                         </Link>
-                        <Link to="/test3" className={styles.start__button}>
+                        <Link to="/test3Home" className={styles.start__button}>
                             겨울 간식 성격 유형 테스트
                             <FontAwesomeIcon
                                 icon={faArrowAltCircleRight}
                                 className={styles.icon}
                             />
                         </Link>
-                        <Link to="/test4" className={styles.start__button}>
+                        <Link to="/test4Home" className={styles.start__button}>
                             음식 MENU 연애 테스트
                             <FontAwesomeIcon
                                 icon={faArrowAltCircleRight}

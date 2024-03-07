@@ -44,7 +44,7 @@ const Options = () => {
 
         setTimeout(() => {
             const examResult = result.join('');
-            navigate(`/result/${examResult}`);
+            navigate(`/result/trip/${examResult}`);
         }, 3000);
     };
     useEffect(() => {

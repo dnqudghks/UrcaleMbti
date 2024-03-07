@@ -11,9 +11,9 @@ import styles from './countries.module.css';
 
 const Profile = () => {
     const url = window.location.href;
-    const { countryName } = useParams();
-    const nation = Countries[countryName];
-
+    const { test1Name } = useParams();
+    const nation = Countries[test1Name];
+    console.log('test1Name', test1Name);
     if (!nation) {
         return <div>존재하지 않는 결과입니다.</div>;
     }
@@ -63,11 +63,7 @@ const Profile = () => {
                     <div className={styles.result__advice__box}>
                         <div className={styles.result__advice}>
                             <a href={`${/result/}${nation.duo[0].subhead}`}>
-                                <img
-                                    src={nation.duo[0].img}
-                                    alt="mbti캐릭터"
-                                    /* Link="/" */
-                                />
+                                <img src={nation.duo[0].img} alt="mbti캐릭터" />
                             </a>
                             <div>
                                 <h4>함께하면 좋아요!</h4>
@@ -103,6 +99,13 @@ const Profile = () => {
                     </div>
                     <div className={styles.button__box}>
                         <Link to="/" className={styles.button}>
+                            처음으로
+                            <FontAwesomeIcon
+                                icon={faSignOutAlt}
+                                className={styles.icon}
+                            />
+                        </Link>
+                        <Link to="/test1Home" className={styles.button}>
                             다시하기
                             <FontAwesomeIcon
                                 icon={faSignOutAlt}

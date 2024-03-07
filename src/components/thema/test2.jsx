@@ -44,7 +44,7 @@ const Options = () => {
 
         setTimeout(() => {
             const examResult = result.join('');
-            navigate(`/result/${examResult}`);
+            navigate(`/result/test2/${examResult}`);
         }, 3000);
     };
     useEffect(() => {
@@ -102,11 +102,11 @@ const Options = () => {
             )}
             {loading && (
                 <div className={styles.loading__container}>
-                    <img
+                    {/* <img
                         className={styles.ticket}
                         src="img/flying.png"
                         alt="e-ticket"
-                    />
+                    /> */}
                     <div className={styles.loading}></div>
                 </div>
             )}
