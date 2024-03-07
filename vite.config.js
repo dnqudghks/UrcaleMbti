@@ -15,7 +15,7 @@ const ViteConfig = defineConfig(env => {
         return {
             ...options,
             server: {
-
+                host: "192.168.100.21"
                 //open: true,
             },
             build: {
@@ -27,16 +27,17 @@ const ViteConfig = defineConfig(env => {
         return {
             ...options,
             build: {
-                rollupOptions: {
-                    output: {
-                        manualChunks(id) {
-                            if (id.includes("node_modules")) {
-                                const module = id.split("node_modules/").pop().split("/")[0];
-                                return `vendor/${module}`;
-                            }
-                        }
-                    }
-                }
+                sourcemap: true
+                // rollupOptions: {
+                //     output: {
+                //         manualChunks(id) {
+                //             if (id.includes("node_modules")) {
+                //                 const module = id.split("node_modules/").pop().split("/")[0];
+                //                 return `vendor/${module}`;
+                //             }
+                //         }
+                //     }
+                // }
             }
         }
     }

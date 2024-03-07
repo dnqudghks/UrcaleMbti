@@ -20,7 +20,8 @@ const KakaoShareButton = () => {
                 content: {
                     title: '유라클 MBTI',
                     description: '나의 성격유형을 알아보자!',
-                    imageUrl: 'https://felizmbti.netlify.app/img/FelizLogo.png',
+                    imageUrl:
+                        'https://uracle.co.kr/wp-content/uploads/2021/04/ci_%ED%9D%B0%EC%83%89-e1617930660493.png',
                     link: {
                         mobileWebUrl: 'https://felizmbti.netlify.app/',
                         webUrl: 'https://felizmbti.netlify.app/',
