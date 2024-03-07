@@ -134,7 +134,7 @@ button {
 
     .mbti__button:hover {
         color: #fff;
-        background-color: #ed6174;
+        background-color: #ea35d2;
         transform: scale(0.98);
         transition: 100ms;
     }

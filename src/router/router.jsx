@@ -12,7 +12,21 @@ const Test1 = loadable(() => import('../components/thema/test1'));
 const Test2 = loadable(() => import('../components/thema/test2'));
 const Test3 = loadable(() => import('../components/thema/test3'));
 const Test4 = loadable(() => import('../components/thema/test4'));
-const Countries = loadable(() => import('../components/countries/countries'));
+const Countries = loadable(() =>
+    import('../components/result/countries/countries')
+);
+const test1_result = loadable(() =>
+    import('../components/result/test1/countries')
+);
+const test2_result = loadable(() =>
+    import('../components/result/test2/countries')
+);
+const test3_result = loadable(() =>
+    import('../components/result/test3/countries')
+);
+const test4_result = loadable(() =>
+    import('../components/result/test4/countries')
+);
 
 const router = createBrowserRouter(
     createRoutesFromElements(
@@ -25,6 +39,10 @@ const router = createBrowserRouter(
             <Route path="/test3" element={<Test3 />} />
             <Route path="/test4" element={<Test4 />} />
             <Route path="result/:countryName" element={<Countries />} />
+            <Route path="result/:countryName" element={<test1_result />} />
+            <Route path="result/:countryName" element={<test2_result />} />
+            <Route path="result/:countryName" element={<test3_result />} />
+            <Route path="result/:countryName" element={<test4_result />} />
             <Route path="*" element={'no match page'} />
         </>
     )

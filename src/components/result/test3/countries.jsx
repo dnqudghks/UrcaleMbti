@@ -3,15 +3,15 @@ import { faCopy, faSignOutAlt } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { CopyToClipboard } from 'react-copy-to-clipboard';
 import { Link, useParams } from 'react-router-dom';
-import Countries from '../../common/api/countriesApi/../countriesApi';
-import FacebookBtn from '../shareSNS/facebookShareButton';
-import KakaoBtn from '../shareSNS/kakaoShareButton';
-import TwitterBtn from '../shareSNS/twitterShareButton';
+import Countries from '../../../common/api/test3/countriesApi.json';
+import FacebookBtn from '../../shareSNS/facebookShareButton';
+import KakaoBtn from '../../shareSNS/kakaoShareButton';
+import TwitterBtn from '../../shareSNS/twitterShareButton';
 import styles from './countries.module.css';
 
 const Profile = () => {
     const url = window.location.href;
-    const {countryName} = useParams();
+    const { countryName } = useParams();
     const nation = Countries[countryName];
 
     if (!nation) {

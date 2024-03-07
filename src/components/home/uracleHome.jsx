@@ -46,28 +46,28 @@ const Home = () => {
                             />
                         </Link>
                         <Link to="/test1" className={styles.start__button}>
-                            직업 및 진로 선호 유형 테스트
+                            찰떡 직업 MBTI 테스트
                             <FontAwesomeIcon
                                 icon={faArrowAltCircleRight}
                                 className={styles.icon}
                             />
                         </Link>
                         <Link to="/test2" className={styles.start__button}>
-                            새로운 사람을 만났을 때 유형 테스트
+                            퍼스널 컬러 셩격 유형 테스트
                             <FontAwesomeIcon
                                 icon={faArrowAltCircleRight}
                                 className={styles.icon}
                             />
                         </Link>
                         <Link to="/test3" className={styles.start__button}>
-                            붕어빵 장사 유형 테스트
+                            겨울 간식 성격 유형 테스트
                             <FontAwesomeIcon
                                 icon={faArrowAltCircleRight}
                                 className={styles.icon}
                             />
                         </Link>
                         <Link to="/test4" className={styles.start__button}>
-                            유형에따른 음식 메뉴 테스트
+                            음식 MENU 연애 테스트
                             <FontAwesomeIcon
                                 icon={faArrowAltCircleRight}
                                 className={styles.icon}
