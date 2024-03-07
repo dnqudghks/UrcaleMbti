@@ -46,28 +46,28 @@ const Home = () => {
                             />
                         </Link>
                         <Link to="/test1" className={styles.start__button}>
-                            2 테스트
+                            직업 및 진로 선호 유형 테스트
                             <FontAwesomeIcon
                                 icon={faArrowAltCircleRight}
                                 className={styles.icon}
                             />
                         </Link>
                         <Link to="/test2" className={styles.start__button}>
-                            3 테스트
+                            새로운 사람을 만났을 때 유형 테스트
                             <FontAwesomeIcon
                                 icon={faArrowAltCircleRight}
                                 className={styles.icon}
                             />
                         </Link>
                         <Link to="/test3" className={styles.start__button}>
-                            4 테스트
+                            붕어빵 장사 유형 테스트
                             <FontAwesomeIcon
                                 icon={faArrowAltCircleRight}
                                 className={styles.icon}
                             />
                         </Link>
                         <Link to="/test4" className={styles.start__button}>
-                            5 테스트
+                            유형에따른 음식 메뉴 테스트
                             <FontAwesomeIcon
                                 icon={faArrowAltCircleRight}
                                 className={styles.icon}

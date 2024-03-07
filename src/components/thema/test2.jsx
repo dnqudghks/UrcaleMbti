@@ -1,5 +1,5 @@
 import React, { Suspense, createRef, useEffect, useState } from 'react';
-import styles from './trip.module.css';
+import styles from './test2.module.css';
 import { useNavigate } from 'react-router-dom';
 import Questions from '../../common/api/questionsApi/../test2/questionsApi';
 
