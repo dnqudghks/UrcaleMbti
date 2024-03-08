@@ -4,6 +4,7 @@ import {
     createBrowserRouter,
     createRoutesFromElements,
 } from 'react-router-dom';
+import Result from '../components/popup/result';
 
 const TripHome = loadable(() => import('../components/home/tripHome'));
 const Test1Home = loadable(() => import('../components/home/test1Home'));
@@ -52,8 +53,9 @@ const router = createBrowserRouter(
             <Route path="/test3" element={<Test3 />} />
             <Route path="/test4" element={<Test4 />} />
 
+            {/* 팝업창 적용 테마별 결과페이지 */}
+            <Route path="result/trip/:countryName" element={<Result />} />
             {/* 테마별 결과페이지 */}
-            <Route path="result/trip/:countryName" element={<Countries />} />
             <Route path="result/test1/:test1Name" element={<Test1Result />} />
             <Route path="result/test2/:test2Name" element={<Test2Result />} />
             <Route path="result/test3/:test3Name" element={<Test3Result />} />
