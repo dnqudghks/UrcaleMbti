@@ -54,7 +54,7 @@ const router = createBrowserRouter(
             <Route path="/test4" element={<Test4 />} />
 
             {/* 팝업창 적용 테마별 결과페이지 */}
-            <Route path="result/trip/:countryName" element={<Result />} />
+            <Route path="result/trip/:countryName" element={<Countries />} />
             {/* 테마별 결과페이지 */}
             <Route path="result/test1/:test1Name" element={<Test1Result />} />
             <Route path="result/test2/:test2Name" element={<Test2Result />} />

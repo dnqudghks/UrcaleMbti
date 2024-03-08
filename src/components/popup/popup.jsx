@@ -1,4 +1,4 @@
-import Modal from 'react-bootstrap/Modal';
+import { Modal } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Link } from 'react-router-dom';
 
@@ -8,8 +8,13 @@ function Popup({ show, handleClose }) {
     };
 
     return (
-        <>                 
-            <Modal show={show} handleClose={handleClose} className='modal-lg' data-bs-backdrop="static">
+        <>
+            <Modal
+                show={show}
+                handleClose={handleClose}
+                className="modal-lg"
+                data-bs-backdrop="static"
+            >
                 <Modal.Header>
                     <Modal.Title style={{ fontSize: '17px' }}>광고</Modal.Title>
                 </Modal.Header>
