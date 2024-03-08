@@ -1,666 +1,466 @@
 {
-	"INTJ": {
-		"id": "INTJ",
-		"subhead": "아는 만큼 보인다! 여행모범생인 당신",
-		"subject": "전 세계가 원하던 도시 이스탄불, 터키",
-
-		"nickname": "과학자형",
-		"img": "https://cdn.pixabay.com/photo/2019/03/08/19/52/galata-4043037_960_720.jpg",
-		"description": [
-			{
-				"des": "계획적이고 분석력이 대개 분석력이 높은 편이에요"
-			},
-			{
-				"des": "1분 1초까지 철저하게 계획하는 것을 좋아해요"
-			},
-			{
-				"des": "개인주의적인 성향이 강해 타인에게 감정을 잘 드러내지 않는 편이에요"
-			},
-			{
-				"des": "마음을 연 상대에게도 무뚝뚝한 듯 보이지만 쑥스러워 티 내지 않아요"
-			},
-			{
-				"des": "실용주의적이라 여행지에서 쓸데없는 소비는 하지 않는 편이에요"
-			},
-			{
-				"des": "여행 중에도 종종 혼자만의 시간이 필요한 타입이에요"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/d5/fe/5c/d5fe5cd2078347a27be35c88cf242ec2.jpg",
-				"subhead": "ENTP",
-				"des": "열정의 도시 마드리드, 스페인"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/93/26/c5/9326c5020322d5e9113501391fda04ee.jpg",
-				"subhead": "ESFP",
-				"des": " 호수의 도시 루가노, 스위스"
-			}
-		]
-	},
-	"INTP": {
-		"id": "INTP",
-		"subhead": "혼자라서 즐거워~ 자유가 최고야! 라는 당신",
-		"subject": "세계에서 별 보기 가장 좋은 곳 아타카마 사막, 칠레",
-		"nickname": "아이디어뱅크형",
-		"img": "https://cdn.pixabay.com/photo/2021/01/25/13/45/valle-de-la-luna-5948365_960_720.jpg",
-		"description": [
-			{
-				"des": "MBTI 같은 자아 분석을 좋아하는 타입이에요!"
-			},
-			{
-				"des": "내향적인 성향이 강해 여행 중에도 사람에게 관심을 가지는 일이 드물어요"
-			},
-			{
-				"des": "여행 중에 혼자만의 시간이 매우 중요한 타입이에요"
-			},
-			{
-				"des": "가끔씩은 즉흥적인 행동을 하고 싶어질 때가 있어요"
-			},
-			{
-				"des": "여행 중에도 교통수단, 숙소 등 최대한 효율적인 선택을 하는 편이에요"
-			},
-			{
-				"des": "전체 인구의 3.3%, 한국인의 3% 비율로 상당히 적은 유형이에요"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/bb/fb/b9/bbfbb9ed1e78e47dc89100fd20fced5f.jpg",
-				"subhead": "ENTJ",
-				"des": "푸른 왕국 쉐프샤우엔, 모로코"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/4a/50/fe/4a50fe06a53e681dc819ff046c98e4e6.jpg",
-				"subhead": "ESFJ ",
-				"des": "빛의 도시 파리, 프랑스"
-			}
-		]
-	},
-	"INFJ": {
-		"id": "INFJ",
-		"subhead": "여행만큼 좋은 힐링이 있을까? 라는 당신",
-		"subject": "알프스의 나라 체르마트, 스위스",
-		"nickname": "예언가형",
-		"img": "https://i.pinimg.com/564x/25/3b/d8/253bd8da8ee271e1b8b0c7e57f17b96a.jpg",
-		"description": [
-			{
-				"des": "여행 중 상대편을 잘 맞춰주지만, 속에서 들끓는 불만을 표출하진 않아요!"
-			},
-			{
-				"des": "그렇지만 가끔 조심스럽게 할 말을 다 하는 경우도 가끔은 있어요"
-			},
-			{
-				"des": "상대방을 배려하는 척하며 본인이 원하는 방향으로 잘 유도한답니다"
-			},
-			{
-				"des": "함께 여행한 뒤 자신과 별로 맞지 않았다면 조용히 손절하는 타입!"
-			},
-			{
-				"des": "인내심과 배려심이 많고 알고 보면 따뜻한 사람이에요"
-			},
-			{
-				"des": "여행지에 대해서 호불호가 크게 나뉘는 타입이에요"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/e9/7a/73/e97a73cf39c6af24dbe8c96b89fc8251.jpg",
-				"subhead": "ENFP",
-				"des": "잠들지 않는 섬 이비자, 스페인"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/b2/f6/6c/b2f66c6580649d8e0220e9b6160e528f.jpg",
-				"subhead": "ESTP",
-				"des": "지구의 천장 포카라, 네팔"
-			}
-		]
-	},
-	"INFP": {
-		"id": "INFP",
-		"subhead": "영화나 드라마에서 나오는 장소의 주인공인 당신 ",
-		"subject": "나만 알고 싶은 소도시 과나후아토, 멕시코",
-		"nickname": "열정적인 중재자",
-		"img": "https://i.pinimg.com/564x/e4/80/f5/e480f54e812e0b9d6f9b13df98f3624d.jpg",
-		"description": [
-			{
-				"des": "말 그대로 가성비 러버! 효율성을 사랑하는 타입이에요"
-			},
-			{
-				"des": "남의 눈치를 많이 보지만 눈치가 빠르고 공감력이 뛰어난 편이에요"
-			},
-			{
-				"des": "여행이 싫지는 않지만 귀찮아서 못가는 유형이에요"
-			},
-			{
-				"des": "여행 중에 문화 체험,유적지 문화재 관람,자연환경 감상을 좋아할 확률이 높아요!"
-			},
-			{
-				"des": "여행 중 일기를 적거나 사진을 찍어서 기록하고 추억을 남기는 것을 좋아해요!"
-			},
-			{
-				"des": "집돌이,집순이 성향이 강해 여행지에선 숙소가 중요한 타입이에요"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/63/28/df/6328dfcb31c1dc4cc5f1796f9525dfe9.jpg",
-				"subhead": "ENFJ",
-				"des": "스머프의 고향 알베로벨로, 이탈리아"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/4a/50/fe/4a50fe06a53e681dc819ff046c98e4e6.jpg",
-				"subhead": "ESFJ",
-				"des": "빛의 도시 파리, 프랑스"
-			}
-		]
-	},
-	"ISTJ": {
-		"id": "ISTJ",
-		"subhead": "여행계획은 출발 세 달 전부터 세우는 거야! 라는 당신",
-		"subject": "낭만의 도시 프라하, 체코",
-		"nickname": "세상의 소금형",
-		"img": "https://i.pinimg.com/564x/a3/38/d9/a338d9ee09c35a904f5e03f2452ae028.jpg",
-		"description": [
-			{
-				"des": "여행계획은 언제나 나의 몫!"
-			},
-			{
-				"des": "여행마저도 철저히 계획하에 움직여야 하는 성향이에요"
-			},
-			{
-				"des": "예약 전 쿠폰, 할인등으로 최대한 합리적으로 소비하는 것을 좋아해요"
-			},
-			{
-				"des": "여행 중에 예정에 없던 일이 일어나는 것을 극도로 싫어해요!"
-			},
-			{
-				"des": "즉흥적인 여행을 좋아하는 사람과 여행을 다니다가는 큰일 날 수 있어요!"
-			},
-			{
-				"des": "성향이 잘 맞는 친구와 함께라면 제일 든든한 여행 메이트가 될 확률이 높아요!"
-			},
-			{
-				"des": "but 반대인 성향의 사람과 여행하면 빈틈이 없는 노잼 여행메이트가 될 확률이 높으니 조심하세요"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/b2/f6/6c/b2f66c6580649d8e0220e9b6160e528f.jpg",
-				"subhead": "ESTP",
-				"des": "지구의 천장 포카라, 네팔"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/e9/7a/73/e97a73cf39c6af24dbe8c96b89fc8251.jpg",
-				"subhead": "ENFP",
-				"des": "잠들지 않는 섬 이비자, 스페인"
-			}
-		]
-	},
-	"ISFJ": {
-		"id": "ISFJ",
-		"subhead": "여유롭지만 가성비 좋은 여행이 좋은 당신",
-		"subject": "환상의 섬 사르데냐, 이태리",
-		"nickname": "임금뒷편의 권력형",
-		"img": "https://i.pinimg.com/564x/2e/4f/72/2e4f721b8c47aff9ef7303147d62f328.jpg",
-		"description": [
-			{
-				"des": "눈치가 상당히 빨라 함께 여행하기 좋은 타입이에요!"
-			},
-			{
-				"des": "섬세하고 상대방의 의견을 경청하는 유형이라 단체여행에 꼭 필요한 사람이에요"
-			},
-			{
-				"des": "대비가 철저한 타입이라 여행 시에 짐이 많은 편이에요"
-			},
-			{
-				"des": "사소한 것들을 잘 기억해 여행지에서 있던 일들을 잘 기억해요"
-			},
-			{
-				"des": "새로운 여행지보다 이전에 가봤던 여행지를 선호해요!"
-			},
-			{
-				"des": "남들을 배려하는 성향이 때로는 본인의 여행을 힘들게 한다"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/93/26/c5/9326c5020322d5e9113501391fda04ee.jpg",
-				"subhead": "ESFP",
-				"des": " 호수의 도시 루가노, 스위스"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/d5/fe/5c/d5fe5cd2078347a27be35c88cf242ec2.jpg",
-				"subhead": "ENTP",
-				"des": "열정의 도시 마드리드, 스페인"
-			}
-		]
-	},
-	"ISTP": {
-		"id": "ISTP",
-		"subhead": "혼자가 좋지만 그렇다고 심심한 건 싫은 당신",
-		"subject": "비슷한 듯 다른,다른듯 비슷한 도시 도쿄, 일본",
-		"nickname": "백과사전형",
-		"img": "https://i.pinimg.com/564x/d2/0f/23/d20f2344aaa0ec4a22430526c21f0887.jpg",
-		"description": [
-			{
-				"des": "평소엔 소극적이지만 여행지에선 대담해지는 타입이에요!"
-			},
-			{
-				"des": "여행 중에 가끔 특이한 것에 확 꽂히는 경우가 종종 있어요"
-			},
-			{
-				"des": "여행계획은 세세하게 짜지 않고 큰 틀만 계획하고 떠나는 성향이 높아요"
-			},
-			{
-				"des": "포기가 빠른 편이라 식당을 줄 서서 기다리지 않아요"
-			},
-			{
-				"des": "여럿보단 혼자 여행하는 것을 즐기는 편이에요"
-			},
-			{
-				"des": "혼자 놀기의 끝판왕이라 혼밥, 여행, 영화관도 무리 없어요!"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/bc/86/f6/bc86f6871d4e63239ae8a8898b097de7.jpg",
-				"subhead": "ESTJ",
-				"des": "밤이 가장 아름다운 도시 부다페스트, 헝가리"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/63/28/df/6328dfcb31c1dc4cc5f1796f9525dfe9.jpg",
-				"subhead": "ENFJ",
-				"des": "스머프의 고향 알베로벨로, 이탈리아"
-			}
-		]
-	},
-	"ISFP": {
-		"id": "ISFP",
-		"subhead": "여행계의 메딕. 힐링 여행 러버인 당신",
-		"subject": "힐링 여행의 끝판왕 밀포드 사운드, 뉴질랜드",
-		"nickname": "성인군자형",
-		"img": "https://i.pinimg.com/564x/af/dd/76/afdd76c76f41b1f4c2bb65e590089a2e.jpg",
-		"description": [
-			{
-				"des": "타고난 결정장애 스타일이라 최종결정을 힘들어할 때가 있어요"
-			},
-			{
-				"des": "상대방을 배려하는 배려심이 깊어 함께 여행하면 좋아요"
-			},
-			{
-				"des": "여행지에서 종종 분위기에 취할 때가 있어요"
-			},
-			{
-				"des": "혼자만의 시간을 좋아해 혼자 여행을 떠나기 좋아해요"
-			},
-			{
-				"des": "본인이 좋아하는 일에는 가끔 열정이 넘쳐요"
-			},
-			{
-				"des": "주변 사람들의 분위기에 따라 성격이 잘 변하는 편이에요"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/4a/50/fe/4a50fe06a53e681dc819ff046c98e4e6.jpg",
-				"subhead": "ESFJ",
-				"des": "빛의 도시 파리, 프랑스"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/bb/fb/b9/bbfbb9ed1e78e47dc89100fd20fced5f.jpg",
-				"subhead": "ENTJ",
-				"des": "푸른 왕국 쉐프샤우엔, 모로코"
-			}
-		]
-	},
-	"ESTP": {
-		"id": "ESTP",
-		"subhead": "우리는 모두 친구! 모든 지구인은 내 친구인 당신",
-		"subject": "지구의 천장 포카라, 네팔",
-		"nickname": "인싸형",
-		"img": "https://i.pinimg.com/564x/b2/f6/6c/b2f66c6580649d8e0220e9b6160e528f.jpg",
-		"description": [
-			{
-				"des": "문제해결 능력이 높아 여행지에서 일어나는 돌발상황을 잘 대처하는 편이에요"
-			},
-			{
-				"des": "즐기며 사는 삶을 추구하는 경향이 높아 여행을 누구보다 사랑하는 사람이에요!"
-			},
-			{
-				"des": "스릴과 자유분방함을 좋아해 여행 중에 액티비티 활동을 많이 하는 편이에요"
-			},
-			{
-				"des": "사람을 좋아해 누구든지 자신의 친구로 만들 수 있어요"
-			},
-			{
-				"des": "가끔 여행지에서 사업 아이템을 발견하고 눈독 들이는 일이 발생하기도 해요"
-			},
-			{
-				"des": "감정 기복이 심한 사람이랑 여행하는 것을 많이 힘들어해요"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/a3/38/d9/a338d9ee09c35a904f5e03f2452ae028.jpg",
-				"subhead": "ISTJ",
-				"des": "낭만의 도시 프라하, 체코"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/25/3b/d8/253bd8da8ee271e1b8b0c7e57f17b96a.jpg",
-				"subhead": "INFJ",
-				"des": "알프스의 나라 체르마트, 스위스"
-			}
-		]
-	},
-	"ESFP": {
-		"id": "ESFP",
-		"subhead": "여행계의 얼리어답터인 당신",
-		"subject": " 호수의 도시 루가노, 스위스",
-		"nickname": "인맥왕",
-		"img": "https://i.pinimg.com/564x/54/b6/b3/54b6b3ed8b24a17a27f2ffe028713f3d.jpg",
-		"description": [
-			{
-				"des": "항상 텐션이 높아서 함께 여행한다면 힘들 수도 있어요!"
-			},
-			{
-				"des": "면세점과 아울렛에서 충동구매를 할 때가 종종 있어요"
-			},
-			{
-				"des": "타고난 인싸라서 여행 중에는 인스타가 조용할 날이 없어요"
-			},
-			{
-				"des": "여행 중 제일 설레는 시간은 여행 가기 전!"
-			},
-			{
-				"des": "신나고 재미있는 성격이라 여행지에서도 많은 친구를 만들어요"
-			},
-			{
-				"des": "매우 덜렁거려서 옆에서 잘 챙겨주는 타입의 사람과 여행하면 좋아요!"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/2e/4f/72/2e4f721b8c47aff9ef7303147d62f328.jpg",
-				"subhead": "ISFJ",
-				"des": "환상의 섬 사르데냐, 이태리"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://cdn.pixabay.com/photo/2019/03/08/19/52/galata-4043037_960_720.jpg",
-				"subhead": "INTJ",
-				"des": "전세계가 원하던 도시 이스탄불, 터키"
-			}
-		]
-	},
-
-	"ENTJ": {
-		"id": "ENTJ",
-		"subhead": "여행지에서 국밥처럼 든든한 당신",
-		"subject": "푸른 왕국 쉐프샤우엔, 모로코",
-		"nickname": "지도자형",
-		"img": "https://i.pinimg.com/564x/bb/fb/b9/bbfbb9ed1e78e47dc89100fd20fced5f.jpg",
-		"description": [
-			{
-				"des": "타고난 지도자형답게 여행계획도 역할분담을 확실하게 나눠요!"
-			},
-			{
-				"des": "혼자 있는 것을 싫어하는 편이라 주로 함께하는 여행을 하는 편이에요"
-			},
-			{
-				"des": "가끔 고집이 센 것처럼 보이기도 하지만 자기 생각이 잘못된 것이 확인되면 바로 수긍하는 편이에요"
-			},
-			{
-				"des": "지적 욕구가 강해 여행 전 미리 여행 정보에 대해 빠삭하게 알고 가는 편이에요"
-			},
-			{
-				"des": "효율성을 추구하는 타입이라 여행 중에 무의미하게 시간을 보내는 것을 싫어해요"
-			},
-			{
-				"des": "항상 실행하기 전에 계획부터 하는 유형이에요!"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://cdn.pixabay.com/photo/2021/01/25/13/45/valle-de-la-luna-5948365_960_720.jpg",
-				"subhead": "INTP",
-				"des": "세계에서 별 보기 가장 좋은 곳 아타카마 사막, 칠레"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/af/dd/76/afdd76c76f41b1f4c2bb65e590089a2e.jpg",
-				"subhead": "ISFP",
-				"des": "힐링 여행의 끝판왕 밀포드 사운드, 뉴질랜드"
-			}
-		]
-	},
-	"ENTP": {
-		"id": "ENTP",
-		"subhead": "남는 건 결국 음식이야! 미식가인 당신",
-		"subject": "열정의 도시 마드리드, 스페인",
-		"nickname": "발명가형",
-		"img": "https://i.pinimg.com/564x/d5/fe/5c/d5fe5cd2078347a27be35c88cf242ec2.jpg",
-		"description": [
-			{
-				"des": "아는 게 너무 많아서 여행지에서 투머치토커가 될 확률이 높아요!"
-			},
-			{
-				"des": "자기주장이 강해 여행 중에 가끔 난처한 경우가 생길 수 있어요"
-			},
-			{
-				"des": "타고난 언변으로 함께 여행한다면 심심할 일 없는 타고난 입담을 소유한 사람일 확률이 높아요!"
-			},
-			{
-				"des": "가끔 이걸 모른다고? 싶을 정도로 관심 없는 것에는 아예 신경을 쓰지 않아요"
-			},
-			{
-				"des": "여행도 일상처럼 예약과 계획을 철저히 하는 편이에요!"
-			},
-			{
-				"des": "독립적인 성격으로 누군가 주도하는 여행을 함께 한다면 좋아하지 않을 확률이 높아요!"
-			},
-			{
-				"des": "가끔 하나의 주제로 두 시간 동안 얘기할 수 있는 특별한 능력을 소유하고 있어요!"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://cdn.pixabay.com/photo/2019/03/08/19/52/galata-4043037_960_720.jpg",
-				"subhead": "INTJ",
-				"des": "전세계가 원하던 도시 이스탄불, 터키"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/2e/4f/72/2e4f721b8c47aff9ef7303147d62f328.jpg",
-				"subhead": "ISFJ",
-				"des": "환상의 섬 사르데냐, 이태리"
-			}
-		]
-	},
-	"ENFJ": {
-		"id": "ENFJ",
-		"subhead": "작고 사소한 것까지 다 아름다운 감수성이 넘치는 당신",
-		"subject": "스머프의 고향 알베로벨로, 이탈리아",
-		"nickname": "언변능숙형",
-		"img": "https://i.pinimg.com/564x/63/28/df/6328dfcb31c1dc4cc5f1796f9525dfe9.jpg",
-		"description": [
-			{
-				"des": "적극적이고 추진력이 강해 단체여행에서 활발한 타입이에요"
-			},
-			{
-				"des": "여행 중에 사서 고생할 확률이 높아요!"
-			},
-			{
-				"des": "준비가 철저해서 여행 중에 없는 물건이 없어요"
-			},
-			{
-				"des": "친화력이 높아 여행지에서도 인싸일 확률이 높아요!"
-			},
-			{
-				"des": "때때로 감정 기복이 심해 감수성이 넘치는 때가 있어요"
-			},
-			{
-				"des": "국내에서 1%의 비율로 가장 적은 유형의 타입이에요"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/e4/80/f5/e480f54e812e0b9d6f9b13df98f3624d.jpg",
-				"subhead": "INFP",
-				"des": "나만 알고 싶은 소도시 과나후아토, 멕시코"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/d2/0f/23/d20f2344aaa0ec4a22430526c21f0887.jpg",
-				"subhead": "ISTP",
-				"des": "비슷한 듯 다른,다른듯 비슷한 도시 도쿄, 일본"
-			}
-		]
-	},
-	"ENFP": {
-		"id": "ENFP",
-		"subhead": "물 흐르듯 흘러가는 대로 여행하는 자유로운 영혼인 당신",
-		"subject": "잠들지 않는 섬 이비자, 스페인",
-		"nickname": "스파크형",
-		"img": "https://i.pinimg.com/564x/e9/7a/73/e97a73cf39c6af24dbe8c96b89fc8251.jpg",
-		"description": [
-			{
-				"des": "새로운 사람을 만나기 좋아해서 어디에서나 친구를 만들어요 "
-			},
-			{
-				"des": "여행 중 사람을 만나는 것을 좋아하지만, 때론 혼자만의 시간이 필요한 때가 있어요"
-			},
-			{
-				"des": "멋 내고 꾸미는 것을 좋아해서 여행지에서도 언제나 패피에요!"
-			},
-			{
-				"des": "여행 중에 계획 없이 그때그때 일어나는 일을 즐겨요"
-			},
-			{
-				"des": "여행지에서 관심이 끌리지 않는 장소가 있으면 눈길도 주지 않는 편이에요"
-			},
-			{
-				"des": "가끔 고집스러운 면이 있지만, 그렇다고 심하게 고집을 부리지는 않아요!"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/25/3b/d8/253bd8da8ee271e1b8b0c7e57f17b96a.jpg",
-				"subhead": "INFJ",
-				"des": "알프스의 나라 체르마트, 스위스"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/a3/38/d9/a338d9ee09c35a904f5e03f2452ae028.jpg",
-				"subhead": "ISTJ",
-				"des": "낭만의 도시 프라하, 체코"
-			}
-		]
-	},
-	"ESTJ": {
-		"id": "ESTJ",
-		"subhead": "타고난 리더! 여행 단톡방의 독재자인 당신",
-		"subject": "밤이 가장 아름다운 도시 부다페스트, 헝가리",
-		"nickname": "사업가형",
-		"img": "https://i.pinimg.com/564x/bc/86/f6/bc86f6871d4e63239ae8a8898b097de7.jpg",
-		"description": [
-			{
-				"des": "여행에서마저도 계획적이고 체계적인 모습이 드러나는 편이에요"
-			},
-			{
-				"des": "자신의 계획에 있어서 주관이 뚜렷한 편이에요"
-			},
-			{
-				"des": "계획이 틀어지는 일이 발생하면 매우 싫어해요!"
-			},
-			{
-				"des": "호불호가 확실해 때로는 여행하기 편한 점도 있어요"
-			},
-			{
-				"des": "힐링 여행 보다는 이곳저곳 다 돌아다니는 여행을 선호해요"
-			},
-			{
-				"des": "외로움을 별로 타지 않는 스타일이에요"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/d2/0f/23/d20f2344aaa0ec4a22430526c21f0887.jpg",
-				"subhead": "ISTP",
-				"des": "비슷한 듯 다른,다른듯 비슷한 도시 도쿄, 일본"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/e4/80/f5/e480f54e812e0b9d6f9b13df98f3624d.jpg",
-				"subhead": "INFP",
-				"des": "나만 알고 싶은 소도시 과나후아토, 멕시코"
-			}
-		]
-	},
-	"ESFJ": {
-		"id": "ESFJ",
-		"subhead": "사랑하는 사람들과 사랑하는 장소를 함께하고 싶은 당신",
-		"subject": "빛의 도시 파리, 프랑스",
-		"nickname": "친선도모형",
-		"img": "https://i.pinimg.com/564x/4a/50/fe/4a50fe06a53e681dc819ff046c98e4e6.jpg",
-		"description": [
-			{
-				"des": "친구들의 선호도를 기반으로 여행을 계획하는 배려심이 많은 유형이에요"
-			},
-			{
-				"des": "리액션이 부자라서 함께 여행하면 심심하지 않아요!"
-			},
-			{
-				"des": "여행 중 평화를 위해서 본인을 희생하는 편이에요"
-			},
-			{
-				"des": "사교적인 성향 탓에 누구와 함께하는 여행을 좋아해요"
-			},
-			{
-				"des": "긍정적이고 낙천적인 성격을 가지고 있어요"
-			},
-			{
-				"des": "즉흥적인 행동은 후회하는 경우가 많아 대부분 계획을 세우고 행동해요"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/af/dd/76/afdd76c76f41b1f4c2bb65e590089a2e.jpg",
-				"subhead": "ISFP",
-				"des": "힐링 여행의 끝판왕 밀포드 사운드, 뉴질랜드"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://cdn.pixabay.com/photo/2021/01/25/13/45/valle-de-la-luna-5948365_960_720.jpg",
-				"subhead": "INTP",
-				"des": "세계에서 별 보기 가장 좋은 곳 아타카마 사막, 칠레"
-			}
-		]
-	}
+    "ISTJ": {
+        "id": "ISTJ",
+        "subhead": "집중력이 뛰어난 사람",
+        "subject": "회계사",
+        "nickname": "세상의 소금형",
+        "img": "https://media.istockphoto.com/id/1450770679/ko/%EC%82%AC%EC%A7%84/%EC%82%AC%EB%AC%B4%EC%8B%A4-%EB%82%B4%EB%B6%80%EC%9D%98-%EC%84%9C%EB%A5%98-%EC%9E%91%EC%97%85%EC%97%90-%EC%A7%84%EC%A7%80%ED%95%98%EA%B3%A0-%EC%A7%91%EC%A4%91%EB%90%9C-%EA%B8%88%EC%9C%B5%EA%B0%80-%ED%9A%8C%EA%B3%84%EC%82%AC-%EB%B3%B4%EA%B3%A0%EC%84%9C%EB%A5%BC-%EA%B3%84%EC%82%B0%ED%95%98%EA%B3%A0-%EA%B3%84%EC%A0%95%EC%9D%84-%EC%9A%94%EC%95%BD%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%B4-%EA%B3%84%EC%82%B0%EA%B8%B0%EC%99%80-%EB%85%B8%ED%8A%B8%EB%B6%81%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%84%B1%EC%88%99%ED%95%9C-%EB%82%A8%EC%9E%90-%EC%BA%90%EC%A3%BC%EC%96%BC-%EC%98%B7%EC%9D%84-%EC%9E%85%EA%B3%A0-%EC%9D%BC%ED%95%98%EB%8A%94-%EC%82%AC%EC%97%85%EA%B0%80.jpg?s=612x612&w=0&k=20&c=3HPaYLNz7-g4h24Lswr1aDW68a0iOWgxPipb3gaIJBg=",
+        "description": [
+            {
+                "des": "일 처리가 꼼꼼하고 신중한 사람"
+            },
+            {
+                "des": "기억력이 좋고 책임감도 강합니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1961779192/ko/%EC%82%AC%EC%A7%84/beautiful-young-businesswoman-holding-a-folder.jpg?s=612x612&w=0&k=20&c=xpOYY1z2ELVQuIE7C0TXIoa_xHLYM-x7iJVlwgg9zcM=",
+                "subhead": "공무원",
+                "des": "기상학자"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1499209425/ko/%EC%82%AC%EC%A7%84/%EB%A9%8B%EC%A7%84-%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8-%EC%8A%A4%ED%83%80%EC%9D%BC-%ED%95%98%EC%9D%B4%ED%94%84%EB%B9%84%EC%8A%A4%ED%8A%B8-%ED%9E%99%ED%95%A9-%EB%9E%98%ED%8D%BC-%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C-%ED%9C%B4%EB%8C%80%ED%8F%B0%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EB%AE%A4%EC%A7%81-%EB%B9%84%EB%94%94%EC%98%A4-%EB%85%B9%ED%99%94.jpg?s=612x612&w=0&k=20&c=nbCGAywYafw3xM7HgOie2tJTwH6rtqHjWpdRXeQg01k=",
+                "subhead": "래퍼",
+                "des": "행위예술가"
+            }
+        ]
+    },
+    "ISFJ": {
+        "id": "ISFJ",
+        "subhead": "친절하고 온화한 사람",
+        "subject": "수의사",
+        "nickname": "임금뒷편의 권력형",
+        "img": "https://media.istockphoto.com/id/1490713587/ko/%EC%82%AC%EC%A7%84/%EB%8F%99%EB%AC%BC-%EB%B3%91%EC%9B%90%EC%97%90%EC%84%9C-%EA%B3%A0%EC%96%91%EC%9D%B4%EB%A5%BC-%EC%93%B0%EB%8B%A4%EB%93%AC%EB%8A%94-%EC%9B%83%EB%8A%94-%EC%88%98%EC%9D%98%EC%82%AC.jpg?s=612x612&w=0&k=20&c=Ekfm2eIaMCe1dQ-kQXwBhW3YDdN-iAhMyNI4P2wQzF8=",
+        "description": [
+            {
+                "des": "마음이 따뜻하고 책임감이 강한 사람"
+            },
+            {
+                "des": "누구보다 약자를 잘 돌볼 수 있습니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1502396589/ko/%EC%82%AC%EC%A7%84/%EC%9E%91%EC%9D%80-%EC%A2%85%EC%9D%B4%EB%A5%BC-%EB%93%A4%EA%B3%A0-%EC%9E%88%EB%8A%94-%EC%A0%8A%EC%9D%80-%EC%86%8C%EB%85%80%EC%99%80-%EB%AC%B8%EC%84%9C%EB%A5%BC-%EB%B3%B4%EA%B3%A0-%EC%9E%88%EB%8A%94-%ED%95%A0%EB%A8%B8%EB%8B%88.jpg?s=612x612&w=0&k=20&c=uIAQH0mUDHxfjAQtz8OdcXqR69xJL1nwbPql87OZF3w=",
+                "subhead": "사회복지사",
+                "des": "물리치료사"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1475641639/ko/%EC%82%AC%EC%A7%84/%ED%83%80%ED%88%AC-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%EC%97%90%EC%84%9C-%EC%97%AC%EC%84%B1%EC%9D%98-%ED%8C%94%EC%97%90-%ED%83%80%ED%88%AC%EB%A5%BC-%ED%95%98%EB%8A%94-%ED%83%80%ED%88%AC-%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8.jpg?s=612x612&w=0&k=20&c=GdInOHtAxVgmA1lCOqgmS8yLnDJpjRZBSJpUXZ-CPZE=",
+                "subhead": "타투이스트",
+                "des": "스탠딩 코미디언"
+            }
+        ]
+    },
+    "INFJ": {
+        "id": "INFJ",
+        "subhead": "공동체의 이익을 중요시하는 사람",
+        "subject": "아트 디렉터",
+        "nickname": "예언자형",
+        "img": "https://media.istockphoto.com/id/909606838/ko/%EC%82%AC%EC%A7%84/%EC%82%AC%EB%AC%B4%EC%8B%A4-%EB%B8%8C%EB%A0%88%EC%9D%B8%EC%8A%A4%ED%86%A0%EB%B0%8D-%ED%8C%80%EC%9B%8C%ED%81%AC.jpg?s=612x612&w=0&k=20&c=q15uIwAdmllE6fYbahMx5ltPKU_rCUviTwX0lfJGtUs=",
+        "description": [
+            {
+                "des": "독창성과 해결 능력이 뛰어난 사람"
+            },
+            {
+                "des": "높은 통찰력으로 사람들에게 영감을 줄 수 있습니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1498049966/ko/%EC%82%AC%EC%A7%84/%EC%95%84%EC%8B%9C%EC%95%84-%EC%97%AC%EC%84%B1-%EC%8B%AC%EB%A6%AC%ED%95%99%EC%9E%90%EC%99%80-%EC%84%B1%EC%88%99%ED%95%9C-%EB%82%A8%EC%84%B1%EC%9D%B4-%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9D%B8-%EC%9E%A5%EC%95%A0%EB%AC%BC%EC%9D%84-%ED%83%90%EA%B5%AC%ED%95%98%EB%8B%A4-%ED%98%84%EB%8C%80-%EC%82%AC%EB%AC%B4%EC%8B%A4%EC%97%90%EC%84%9C-%ED%99%98%EC%9E%90-%EC%83%81%EB%8B%B4.jpg?s=612x612&w=0&k=20&c=uR3-_4dwwljoVmOHb_qVLemgGyOWaivxLThwMDqUt6s=",
+                "subhead": "심리학자",
+                "des": "교육 컨설턴트"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1133992410/ko/%EC%82%AC%EC%A7%84/%EB%82%A8%EC%9E%90-%EC%9A%B4%EC%A0%84-%ED%8F%AC%EB%AE%AC%EB%9F%AC-%EB%A0%88%EC%9D%B4%EC%8B%B1-%EC%B9%B4.jpg?s=612x612&w=0&k=20&c=2E_nPQG_qHiWU2wIWxyNAGGQ8eY9HPPiI10uJVMql3U=",
+                "subhead": "카레이서",
+                "des": "격투기 선수"
+            }
+        ]
+    },
+    "INTJ": {
+        "id": "INTJ",
+        "subhead": "전문적인 직업이 잘 어울리는 사람",
+        "subject": "개발자",
+        "nickname": "과학자형",
+        "img": "https://media.istockphoto.com/id/1451457181/ko/%EC%82%AC%EC%A7%84/%EC%9B%83%EA%B3%A0-%EC%9E%88%EB%8A%94-%EC%A0%8A%EC%9D%80-%EC%97%AC%EC%84%B1-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EC%B4%88%EC%83%81%ED%99%94-%EC%B1%85%EC%83%81%EC%97%90-%EC%95%89%EC%95%84-%EB%85%B8%ED%8A%B8%EB%B6%81%EC%97%90-%EC%BD%94%EB%94%A9.jpg?s=612x612&w=0&k=20&c=zZzqE3oOgwBf4ABvVKMmzUk4RMCxRq74fsbvvVFqxR0=",
+        "description": [
+            {
+                "des": "분석적이고 객관적인 사람"
+            },
+            {
+                "des": "강한 의지와 뛰어난 분석력으로 어려운 일을 빠르게 처리할 수 있습니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1465830962/ko/%EC%82%AC%EC%A7%84/%EC%84%B1%EA%B3%B5%EC%A0%81%EC%9D%B8-%EC%B2%AD%EB%85%84-%EC%82%AC%EC%97%85%EA%B0%80-%EC%95%84%EC%8B%9C%EC%95%84-%EC%9D%B8%EC%9D%80-%EC%82%AC%EB%AC%B4%EC%8B%A4%EC%97%90%EC%84%9C-%EC%9D%BC%ED%95%98%EA%B3%A0-%EB%AC%B8%EC%84%9C-%EA%B7%B8%EB%9E%98%ED%94%84-%EA%B3%84%EC%A0%95%EC%9C%BC%EB%A1%9C-%EC%9E%91%EC%97%85%ED%95%A9%EB%8B%88%EB%8B%A4.jpg?s=612x612&w=0&k=20&c=C8wGEf31phf9PGjVBZ_SqnPPMVNoZQa0pbGapUfofvA=",
+                "subhead": "회계사",
+                "des": "은행원"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/483718031/ko/%EC%82%AC%EC%A7%84/%ED%96%89%EB%B3%B5-%EC%B9%98%EC%96%B4%EB%A6%AC%EB%8D%94-%EB%B6%80%EA%B3%BC%ED%95%98%EB%8A%94-%EB%B0%8F-pon-pon.jpg?s=612x612&w=0&k=20&c=ntyk8VkiAu0bJe50F2JI9ClCjVzrGvIjoV-D4UmkRUk=",
+                "subhead": "치어리더",
+                "des": "클럽 DJ"
+            }
+        ]
+    },
+    "ISTP": {
+        "id": "ISTP",
+        "subhead": "적응력이 강한 사람",
+        "subject": "데이터 분석가",
+        "nickname": "백과사전형",
+        "img": "https://media.istockphoto.com/id/1473163791/ko/%EC%82%AC%EC%A7%84/%EC%84%9C%EC%9E%88%EB%8A%94-%EC%B1%85%EC%83%81-%ED%99%88-%EC%98%A4%ED%94%BC%EC%8A%A4%EC%97%90%EC%84%9C-%EC%9D%BC%ED%95%98%EB%8A%94-%ED%97%88%EB%A6%AC-%ED%86%B5%EC%A6%9D%EC%9D%B4%EC%9E%88%EB%8A%94-%EC%97%AC%EC%84%B1.jpg?s=612x612&w=0&k=20&c=L5wAAIzLgyCWaOVYkkr_skiGqGDACE2VH2U65YfQEy8=",
+        "description": [
+            {
+                "des": "과묵하고 적응력이 좋은 사람"
+            },
+            {
+                "des": "관찰력과 분석력이 뛰어납니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1277521764/ko/%EC%82%AC%EC%A7%84/%ED%95%AD%EA%B3%B5%EA%B8%B0%EC%9D%98-%EC%98%A4%EB%91%90%EB%A7%89%EC%97%90%EC%84%9C-%EC%B2%98%EB%9F%BC-%EB%B3%B4%EC%97%AC%EC%A3%BC%EB%8A%94-%EC%9C%A0%EB%8B%88%ED%8F%BC%EC%9D%84-%EC%9E%85%EC%9D%80-%EC%9E%98%EC%83%9D%EA%B8%B4-%EB%82%A8%EC%9E%90.jpg?s=612x612&w=0&k=20&c=zxnSP3OoOVccptIWgw4Avsd286I5Er9JnsNK2rJ_vzA=",
+                "subhead": "파일럿",
+                "des": "사진 작가"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1347814957/ko/%EC%82%AC%EC%A7%84/%ED%98%84%EB%8C%80-%EC%82%AC%EB%AC%B4%EC%8B%A4%EC%97%90%EC%84%9C-%EC%BB%B4%ED%93%A8%ED%84%B0%EC%99%80-%ED%97%A4%EB%93%9C%EC%85%8B%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%A0%8A%EC%9D%80-%EC%97%AC%EC%84%B1%EC%9D%98-%EC%83%B7.jpg?s=612x612&w=0&k=20&c=qOF0OuzAySfIk8VaVgF9FZt17RHEoLgAwABP-AqfAPo=",
+                "subhead": "콜센터 직원",
+                "des": "웨딩플래너"
+            }
+        ]
+    },
+    "ISFP": {
+        "id": "ISFP",
+        "subhead": "삶의 여유를 만끽하는 사람",
+        "subject": "패션 디자이너",
+        "nickname": "성인군자형",
+        "img": "https://media.istockphoto.com/id/1742451090/ko/%EC%82%AC%EC%A7%84/%ED%8C%A8%EC%85%98%EA%B3%BC-%EC%9E%90%EC%8B%A0%EA%B0%90.jpg?s=612x612&w=0&k=20&c=KuaNnEttgLC21StFFztwAwyv7-VmJ3Gd8xU3DD1m_fc=",
+        "description": [
+            {
+                "des": "눈치가 빠르고 센스있는 사람"
+            },
+            {
+                "des": "변화에 민감하고 예술적인 감성이 뛰어납니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1470588651/ko/%EC%82%AC%EC%A7%84/%EA%B0%90%EB%8F%85%EC%9E%90%EB%8A%94-%EC%A4%91%EB%85%84-%EC%97%AC%EC%84%B1-%EC%A7%81%EC%9B%90%EC%9D%84-%EB%A7%8C%EB%82%98-%EA%B4%80%EC%8B%AC-%EC%9E%88%EB%8A%94-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%A7%81%EC%B1%85%EC%97%90-%EB%8C%80%ED%95%B4-%EB%A9%98%ED%86%A0%EB%A7%81%ED%95%A9%EB%8B%88%EB%8B%A4.jpg?s=612x612&w=0&k=20&c=1RCIBD1GobYTtkNbVkvvC7_2VYagjFuA1DOzmxXeNfE=",
+                "subhead": "카운슬러",
+                "des": "약사"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1352234644/ko/%EC%82%AC%EC%A7%84/%EC%9E%90%EB%8F%99%EC%B0%A8-%EC%98%81%EC%97%85-%EC%82%AC%EC%9B%90-%EC%B4%88%EC%83%81%ED%99%94.jpg?s=612x612&w=0&k=20&c=izu7W9JcqYwEcFvgDj49XiTguc8opz5jxqXcm2XcRDI=",
+                "subhead": "자동차 딜러",
+                "des": "개발자"
+            }
+        ]
+    },
+    "INFP": {
+        "id": "INFP",
+        "subhead": "마음을 어루만져줄 수 있는 사람",
+        "subject": "미술 치료사",
+        "nickname": "잔다르크형",
+        "img": "https://media.istockphoto.com/id/1008412648/ko/%EC%82%AC%EC%A7%84/%EA%B7%80%EC%97%AC%EC%9A%B4-%EC%97%AC%EC%9E%90-%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4-%ED%8B%B0%EB%B8%8C-%EC%95%84%ED%8A%B8-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EC%9C%A0%EC%B9%98%EC%9B%90-%EA%B5%90%EC%82%AC.jpg?s=612x612&w=0&k=20&c=FAcl3fwM12KqMk3VABprZ7n2u9ss-uyWGSUtOgMyC-A=",
+        "description": [
+            {
+                "des": "감수성이 풍부하고 열정적이며 성실한 사람"
+            },
+            {
+                "des": "뛰어난 예술적 능력으로 마음을 따뜻하게 어루만져줄 수 있습니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1448847209/ko/%EC%82%AC%EC%A7%84/%EB%94%94%EC%A7%80%ED%84%B8-%ED%83%9C%EB%B8%94%EB%A6%BF%EC%9D%84-%EC%82%AC%EC%9A%A9-%ED%95%98-%EC%97%AC-%EC%82%AC%EC%97%85%EA%B0%80.jpg?s=612x612&w=0&k=20&c=_xqFrnenuLuIlkibPj5hXpw2FnFLG31GJW7_FKNM0vc=",
+                "subhead": "소설가",
+                "des": "프로듀서"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1317330905/ko/%EC%82%AC%EC%A7%84/%EC%A0%84%EC%9E%A5%EC%9D%98-%EB%B3%91%EC%82%AC.jpg?s=612x612&w=0&k=20&c=IB-GUngdqOT6FtALgdQ4xGqB_dSJr2mETFhzfMb7T0k=",
+                "subhead": "군인",
+                "des": "형사"
+            }
+        ]
+    },
+    "INTP": {
+        "id": "INTP",
+        "subhead": "지적 호기심이 높은 사람",
+        "subject": "프로그래머",
+        "nickname": "아이디어 뱅크형",
+        "img": "https://media.istockphoto.com/id/1481183117/ko/%EC%82%AC%EC%A7%84/%EC%84%B8%EB%A0%A8%EB%90%9C-%EC%82%AC%EB%AC%B4%EC%8B%A4%EC%97%90%EC%84%9C-%EC%A0%84%EB%AC%B8%EC%A0%81%EC%9D%B8-%EB%8B%A4%EC%A4%91-%EB%94%94%EC%8A%A4%ED%94%8C%EB%A0%88%EC%9D%B4-pc-%EC%84%A4%EC%A0%95%EC%97%90-%EC%BD%94%EB%93%9C-%EC%A4%84%EC%9D%84-%EC%9E%91%EC%84%B1%ED%95%98%EB%8A%94-%EC%97%AC%EC%84%B1-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%9D%B8-%EC%97%AC%EC%84%B1%EC%9D%80-%EB%B2%84%EA%B7%B8%EB%A5%BC-%EC%88%98%EC%A0%95%ED%95%98%EA%B3%A0-%ED%98%81%EC%8B%A0%EC%A0%81%EC%9D%B8-%EB%94%94%EC%A7%80%ED%84%B8-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5%EC%9D%84.jpg?s=612x612&w=0&k=20&c=KyE6D1n-_TfqXpKGMDH70FKEn6MNOFzDoRZ547EDfr8=",
+        "description": [
+            {
+                "des": "지적 호기심과 이해력이 높은 사람"
+            },
+            {
+                "des": "관심 분야라면 누구보다 잘할 수 있습니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/498668511/ko/%EC%82%AC%EC%A7%84/%EB%82%A8%EC%9E%90%EC%95%84%EC%9D%B4-%EB%A7%91%EC%9D%80-%EB%82%A0-%EB%A3%A8%ED%82%B9-a-%EB%A7%9D%EC%9B%90%EA%B2%BD.jpg?s=612x612&w=0&k=20&c=kPvaHQpm4F5cV7tkxdizga6Bkcz3Jg18Ue-DM_4yCjE=",
+                "subhead": "천문학자",
+                "des": "비평가"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1482783877/ko/%EC%82%AC%EC%A7%84/%EA%B8%B0%EB%8F%85%EA%B5%90-%EC%A3%BC%EA%B5%90%EB%8A%94-%EA%B5%90%ED%9A%8C%EC%97%90%EC%84%9C-%EC%B0%BD%EB%AC%B8-%EC%95%9E%EC%97%90-%EC%84%9C%EC%84%9C-%EC%A7%80%EC%83%81%EC%9D%98-%EC%82%B6%EA%B3%BC-%ED%95%84%EB%A9%B8%EC%9D%98-%EC%82%B6%EC%9D%84-%EB%B0%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4-%EA%B7%B8%EB%8A%94-%EB%AF%BF%EC%9D%8C%EC%9D%98-%EB%B9%9B%EC%9C%BC%EB%A1%9C-%EB%B9%9B%EC%9D%84-%EB%B0%9B%EA%B3%A0-%EA%B7%B8%EB%A6%AC%EC%8A%A4%EB%8F%84%EC%99%80-%EC%84%B1%EA%B2%BD%EC%9D%98-%EC%9D%B8%EB%8F%84%EB%A5%BC-%EC%8B%A0%EB%A2%B0%EC%98%88%EC%88%98.jpg?s=612x612&w=0&k=20&c=b7D-Nq2G4AtJBGq5BhgEfmfhzV_1XO3mTDRdd7tLlRM=",
+                "subhead": "성직자",
+                "des": "베이비시터"
+            }
+        ]
+    },
+    "ESTP": {
+        "id": "ESTP",
+        "subhead": "다양한 활동을 즐기는 사람",
+        "subject": "스포츠 코치",
+        "nickname": "수완좋은활동가형",
+        "img": "https://media.istockphoto.com/id/1483845884/ko/%EC%82%AC%EC%A7%84/%ED%95%99%EC%83%9D%EB%93%A4%EA%B3%BC-%EB%AF%B8%EC%8B%9D%EC%B6%95%EA%B5%AC%EB%A5%BC-%ED%95%98%EB%8A%94-%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90-%EC%BD%94%EC%B9%98.jpg?s=612x612&w=0&k=20&c=locrolLJhspQ1FP45CgY25Cqs4l5-mJa_zTzmNKVakg=",
+        "description": [
+            {
+                "des": "분석력과 현실 리더십이 뛰어난 사람"
+            },
+            {
+                "des": "문제 해결에 능숙하고 승부욕이 있어 팀을 승리로 이끌 수 있습니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1466081532/ko/%EC%82%AC%EC%A7%84/%EC%B0%BD%EA%B3%A0%EC%97%90%EC%84%9C-%EB%A7%88%EC%9D%B4%ED%81%AC%EC%97%90-%EB%8C%80%EA%B3%A0-%EB%A7%90%ED%95%98%EB%8A%94-%EA%B8%B0%EC%9E%90.jpg?s=612x612&w=0&k=20&c=uh3VxpeRZvxU0YvENRWeeKUiync7p4G8Io5TnwtesYs=",
+                "subhead": "기자",
+                "des": "경찰"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1470038876/ko/%EC%82%AC%EC%A7%84/%EC%86%8C%EB%85%80-%ED%95%99%EC%83%9D-%EB%B0%8F-%EA%B5%90%EC%9C%A1-%EC%A7%80%EC%8B%9D-%EB%B0%8F-%ED%95%99%EC%8A%B5%EC%9D%84-%EC%9C%84%ED%95%B4-%EB%8F%84%EC%84%9C%EA%B4%80%EC%97%90%EC%84%9C-%EC%B1%85%EC%9D%84-%EA%B2%80%EC%83%89%ED%95%A9%EB%8B%88%EB%8B%A4-%EB%8C%80%ED%95%99-%EB%8C%80%ED%95%99-%EB%B0%8F-%EC%B1%85%EC%9E%A5%EC%97%90%EC%84%9C-%EB%8F%85%EC%84%9C-%EC%BA%A0%ED%8D%BC%EC%8A%A4-%EA%B3%B5%EB%B6%80-%EB%B0%8F-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%97%B0%EA%B5%AC%EB%A5%BC%EC%9C%84%ED%95%9C-%ED%96%89%EB%B3%B5%ED%95%9C-%EC%A0%8A%EC%9D%80-%EC%97%AC%EC%84%B1.jpg?s=612x612&w=0&k=20&c=kzBKsXyGf4tdsmDqwWfJbArK-pnYZAgnEwlMp7sZJ0o=",
+                "subhead": "도서관 사서",
+                "des": "시인"
+            }
+        ]
+    },
+    "ESFP": {
+        "id": "ESFP",
+        "subhead": "사교적이고 적응이 빠른 사람",
+        "subject": "배우",
+        "nickname": "사교적인유형",
+        "img": "https://media.istockphoto.com/id/1771392353/ko/%EC%82%AC%EC%A7%84/%EA%B0%90%EC%A0%95%EC%A0%81%EC%9D%B8-%EB%B0%B0%EC%9A%B0%EA%B0%80-%EC%A3%BC%ED%99%A9%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%ED%81%B4%EB%9E%98%ED%8D%BC%EB%B3%B4%EB%93%9C%EB%A5%BC-%EB%93%A4%EA%B3%A0-%EC%9E%88%EB%8A%94-%EB%91%90-%EB%B2%88%EC%A7%B8-%EB%B3%B4%EC%A1%B0-%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A1%9C-%EA%B3%B5%EC%97%B0.jpg?s=612x612&w=0&k=20&c=y7Q_r7-J2vzUStUcDo-DFlGz3kWfB-Prg3ktwOtj1uc=",
+        "description": [
+            {
+                "des": "호기심이 많고 사교적인 사람"
+            },
+            {
+                "des": "여러 캐릭터로 변신할 수 있습니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1485085174/ko/%EC%82%AC%EC%A7%84/%EC%97%AC%EC%84%B1-%EA%B3%B5%ED%95%AD-%EC%8A%B9%EA%B0%9D-%EC%A1%B0%EC%88%98%EA%B0%80-%ED%8C%94%EC%A7%B1%EC%9D%84-%EB%81%BC%EA%B3%A0-faq-%EB%8F%84%EC%9B%80-%EB%98%90%EB%8A%94-%EC%A7%80%EC%8B%9C%EC%97%90-%EB%AF%B8%EC%86%8C%EB%A5%BC-%EC%A7%80%EC%9C%BC%EB%A9%B0-%EC%84%9C-%EC%9E%88%EB%8B%A4-%EC%9D%B4%EB%AF%BC%EC%9D%B4%EB%82%98-%EC%97%AC%ED%96%89-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%B4-%EC%9B%83%EA%B3%A0-%EC%9E%88%EB%8A%94-%ED%96%89%EB%B3%B5%ED%95%9C-%EC%97%AC%EC%84%B1-%ED%95%AD%EA%B3%B5%EC%82%AC-%EC%A7%81%EC%9B%90%EC%9D%98-%EC%B4%88%EC%83%81%ED%99%94.jpg?s=612x612&w=0&k=20&c=Dze-JD9oJIlht3BxUPDGsZDFKQzg8UBoC9vLbEje8VE=",
+                "subhead": "승무원",
+                "des": "놀이 치료사"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1184183287/ko/%EC%82%AC%EC%A7%84/%EC%95%84%EC%8B%9C%EC%95%84-%EA%B3%BC%ED%95%99%EC%9E%90-%EC%82%AC%EC%9A%A9-%ED%98%84%EB%AF%B8%EA%B2%BD.jpg?s=612x612&w=0&k=20&c=fDvVY1piXUNcRkDdJihJizzWpBbPX5x-35z8-nmjs1M=",
+                "subhead": "연구원",
+                "des": "철학가"
+            }
+        ]
+    },
+    "ENFP": {
+        "id": "ENFP",
+        "subhead": "남들을 행복하게 해주는 사람",
+        "subject": "파티플래너",
+        "nickname": "스파크형",
+        "img": "https://media.istockphoto.com/id/518020388/ko/%EC%82%AC%EC%A7%84/%EC%8B%AD%EB%8C%80-%EC%A7%80%EC%97%AD%EC%9C%BC%EB%A1%9C-1930%EB%85%84%EB%8C%80-%ED%94%84%EB%A0%8C%EC%A6%88-%EC%B6%95-%ED%95%98-%EC%88%98%EC%9B%90%EB%B3%84-%EB%B6%88%EA%B8%B0-%EC%83%89%EC%83%81%ED%99%94-%EC%83%89%EC%A2%85%EC%9D%B4-%EC%A1%B0%EA%B0%81-%EB%A9%94%ED%8A%B8%EB%A1%9C%ED%8F%B4%EB%A6%AC%EC%8A%A4-%EC%8B%9C%EA%B3%84%EB%B0%94%EB%8A%98.jpg?s=612x612&w=0&k=20&c=zAS0dW9azeGU5nCORoMeL88k2tc3j88ocfdV6KAEcmE=",
+        "description": [
+            {
+                "des": "다른 사람이 행복해하는 모습을 좋아하는 사람"
+            },
+            {
+                "des": "화려하고 재미있는 파티를 열어보세요"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/465388689/ko/%EC%82%AC%EC%A7%84/%EB%B3%B5%EA%B3%A0%ED%92%8D-writer.jpg?s=612x612&w=0&k=20&c=cXq13angE9lLSYO8JQ4-33gXzJZm3NvzHcyTWYOhf4c=",
+                "subhead": "시나리오 작가",
+                "des": "유튜버"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1840745078/ko/%EC%82%AC%EC%A7%84/%EC%8B%A4%EB%82%B4%EC%9D%98-%EB%82%98%EB%AC%B4-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90-%EC%95%89%EC%95%84-%EC%9D%98%EC%82%AC%EB%B4%89%EA%B3%BC-%EC%A2%85%EC%9D%B4%EB%A5%BC-%EB%93%A4%EA%B3%A0-%ED%8C%90%EC%82%AC-%EC%84%A0%ED%83%9D%EC%A0%81-%EC%B4%88%EC%A0%90.jpg?s=612x612&w=0&k=20&c=5zqi1mB73bzdM1WmmeAUAVoGfGu2u2cTMcmH3lzv3tY=",
+                "subhead": "판사",
+                "des": "정치인"
+            }
+        ]
+    },
+    "ENTP": {
+        "id": "ENTP",
+        "subhead": "박학다식하고 독창적인 사람",
+        "subject": "영화감독",
+        "nickname": "발명가형",
+        "img": "https://media.istockphoto.com/id/173835822/ko/%EC%82%AC%EC%A7%84/%EC%B9%B4%EB%A9%94%EB%9D%BC-%EC%9A%B4%EC%98%81%EA%B8%B0%EC%82%AC.jpg?s=612x612&w=0&k=20&c=8Y83w9Jj51EbhRz8DlPg7tY2YgcWrz-GSsk_a1PSyTI=",
+        "description": [
+            {
+                "des": "넓은 안목과 독창적인 아이디어가 있는 사람"
+            },
+            {
+                "des": "좋은 작품을 만들어낼 수 있습니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1267210565/ko/%EC%82%AC%EC%A7%84/%EC%A0%8A%EC%9D%80-%EB%B6%80%EB%B6%80%EC%97%90%EA%B2%8C-%EC%83%88-%EC%95%84%ED%8C%8C%ED%8A%B8%EB%A5%BC-%EC%A0%9C%EC%8B%9C%ED%95%98%EB%8A%94-%EC%97%AC%EC%84%B1-%EB%B6%80%EB%8F%99%EC%82%B0-%EC%A4%91%EA%B0%9C%EC%9D%B8.jpg?s=612x612&w=0&k=20&c=rr38W80HfqFtL3V2DVdxDrwYFpE_Nq23juCYz2oCMVQ=",
+                "subhead": "부동산 전문가",
+                "des": "마케팅"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1485585981/ko/%EC%82%AC%EC%A7%84/%ED%8F%AC%EB%8F%84%EB%B0%AD%EC%97%90%EC%84%9C-%EC%82%BD%EC%9C%BC%EB%A1%9C-%EC%9D%B8%EC%82%AC%ED%95%98%EB%8A%94-%EC%84%B1%EC%88%99%ED%95%9C-%EB%86%8D%EB%B6%80.jpg?s=612x612&w=0&k=20&c=y11tFO80locYnJ6Zvxb3RFnsA9A6RsGXkC2EoWTBAl0=",
+                "subhead": "농부",
+                "des": "콜센터"
+            }
+        ]
+    },
+    "ESTJ": {
+        "id": "ESTJ",
+        "subhead": "불의를 못참는 사람",
+        "subject": "감독관",
+        "nickname": "사업가형",
+        "img": "https://media.istockphoto.com/id/1672324594/ko/%EC%82%AC%EC%A7%84/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%ED%99%94%EB%AC%BC-%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C-%EC%9D%BC%ED%95%98%EB%8A%94-%EA%B0%90%EB%8F%85%EA%B4%80-%EB%98%90%EB%8A%94-%EA%B7%BC%EB%A1%9C%EC%9E%90%EB%8A%94-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%9D%98-%EB%AC%BC%ED%92%88%EC%9D%84-%EC%A0%90%EA%B2%80%ED%95%A9%EB%8B%88%EB%8B%A4-%EC%84%A0%EC%A0%81-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B0%90%EB%8F%85%EA%B4%80-%EB%98%90%EB%8A%94-%EA%B7%BC%EB%A1%9C%EC%9E%90-%EB%AC%BC%EB%A5%98-%EB%B0%8F-%EB%B0%B0%EC%86%A1.jpg?s=612x612&w=0&k=20&c=z3qQgcNeaiInSJ8j0BmQ_CsHEudMCru-qy1Tj8DUNaM=",
+        "description": [
+            {
+                "des": "사실적 근거에 따라 상황을 판단하는 사람"
+            },
+            {
+                "des": "누구보다 공평하고 정확하며 규칙을 준수합니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1007750162/ko/%EC%82%AC%EC%A7%84/%EC%9E%90%EC%8B%A0%EA%B0%90-%EC%97%AC%EC%84%B1-%EA%B2%BD%EC%B0%B0%EA%B4%80-%EB%96%A8%EC%96%B4%EC%A0%B8-%EB%B3%B4%EA%B3%A0-%ED%95%98-%EA%B3%A0-%EC%B4%9D%EC%99%80-%EB%B0%95%EC%A5%90.jpg?s=612x612&w=0&k=20&c=nM1Ps8iLzMX084RXWp1kckYG-b56fQLBK98qEHWP6Vg=",
+                "subhead": "보안 요원",
+                "des": "은행장"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1466674171/ko/%EC%82%AC%EC%A7%84/%EA%BD%83-%EA%B0%80%EA%B2%8C%EC%9D%98-%ED%96%89%EB%B3%B5%ED%95%9C-%EC%A0%8A%EC%9D%80-%EC%A3%BC%EC%9D%B8%EC%9D%80-%EA%B7%B8%EB%85%80%EC%9D%98-%EC%9E%91%EC%9D%80-%EC%82%AC%EC%97%85%EC%97%90%EC%84%9C-%EC%9D%BC%ED%95%98%EB%8A%94-%EA%B2%83%EC%9D%84-%EC%A6%90%EA%B8%B4%EB%8B%A4.jpg?s=612x612&w=0&k=20&c=Ipbgx4P5t0_W3YR76jgDQHfqYJQsNTnGi7lKuwgnGuQ=",
+                "subhead": "플로리스트",
+                "des": "동화 작가"
+            }
+        ]
+    },
+    "ESFJ": {
+        "id": "ESFJ",
+        "subhead": "멘탈이 강한 사람",
+        "subject": "교사",
+        "nickname": "친선도모형",
+        "img": "https://media.istockphoto.com/id/1500076452/ko/%EC%82%AC%EC%A7%84/%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90%EC%97%90%EC%84%9C-%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC-%EB%B3%B4%EA%B3%A0-%EC%9E%88%EB%8A%94-%ED%96%89%EB%B3%B5%ED%95%9C-%ED%9E%88%EC%8A%A4%ED%8C%A8%EB%8B%89-%EA%B5%90%EC%82%AC.jpg?s=612x612&w=0&k=20&c=c1R5b9nDdPAlaMsqDnRs0v1VlkIP-mIWdc2n4mEDoHA=",
+        "description": [
+            {
+                "des": "따뜻한 카리스마를 갖고 있는 사람"
+            },
+            {
+                "des": "학생들을 올바른 길로 인도할 수 있습니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/514740624/ko/%EC%82%AC%EC%A7%84/%EC%84%B8%EB%A1%9C%EB%8A%94-%EC%9E%88%EB%8A%94-%EC%9E%98%EC%83%9D%EA%B8%B4-%EC%A0%8A%EC%9D%80-%EC%9D%98%EC%82%AC%EB%8A%94.jpg?s=612x612&w=0&k=20&c=FSvT9i4RTOb6RfexfmaR3HNbW5ZWwmc_xrCXKAYNUbU=",
+                "subhead": "간호사",
+                "des": "호텔 지배인"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/601124668/ko/%EC%82%AC%EC%A7%84/%EC%A0%8A%EC%9D%80-%EC%97%AC%EC%9E%90%EB%8A%94-%EC%88%98%ED%95%99%EC%97%90-%EB%AC%B8%EC%A0%9C%EA%B0%80.jpg?s=612x612&w=0&k=20&c=p7Jf7igw2fYitnI8T_Zl4StPI90HnaCuWRyIef8EflA=",
+                "subhead": "물리학자",
+                "des": "등대지기"
+            }
+        ]
+    },
+    "ENFJ": {
+        "id": "ENFJ",
+        "subhead": "다른 사람의 성장을 돕는 사람",
+        "subject": "인사 담당자",
+        "nickname": "언변능숙형",
+        "img": "https://media.istockphoto.com/id/1125942529/ko/%EC%82%AC%EC%A7%84/%EA%B3%B5%EC%84%9D-%EC%8B%A0%EC%B2%AD%EC%9E%90%EB%A5%BC-%EC%9D%B8%ED%84%B0%EB%B7%B0-%ED%95%98%EB%8A%94-%EA%B8%8D%EC%A0%95%EC%A0%81%EC%9D%B8-%EB%8B%A4%EC%96%91-%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98-%EA%B7%B8%EB%A3%B9.jpg?s=612x612&w=0&k=20&c=TU1ivNcrm3cEQlRZ08uAYDQOXclwniZwESRNgK4mV6Q=",
+        "description": [
+            {
+                "des": "사교적이고 사람 보는 눈을 가진 사람"
+            },
+            {
+                "des": "좋은 인재를 발견해 낼 수 있습니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1690893631/ko/%EC%82%AC%EC%A7%84/%EC%8A%A4%EC%BA%94%EB%93%A4%EC%9D%84-%EB%B0%9C%ED%91%9C%ED%95%98%EB%8A%94-%EB%82%98%EC%9D%B4%ED%8A%B8-%EC%87%BC-%ED%98%B8%EC%8A%A4%ED%8A%B8.jpg?s=612x612&w=0&k=20&c=H7yi65yftn5PNjMGzkn-63eYxj85d4xMPKBSzeJhAp8=",
+                "subhead": "아나운서",
+                "des": "홍보 담당자"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1405182860/ko/%EC%82%AC%EC%A7%84/%EC%A0%8A%EC%9D%80-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%93%A4%EB%A1%9C-%EA%B0%80%EB%93%9D-%EC%B0%AC-%EC%BD%94%EC%9B%8C%ED%82%B9-%EA%B3%B5%EA%B0%84.jpg?s=612x612&w=0&k=20&c=mpTiu7LD-aL2y7Wd7UBYgZe6UdUwv5H_1gbZ4GY2zI8=",
+                "subhead": "개발자",
+                "des": "점검 기사"
+            }
+        ]
+    },
+    "ENTJ": {
+        "id": "ENTJ",
+        "subhead": "자신감과 카리스마, 통솔력 있는 사람",
+        "subject": "변호사",
+        "nickname": "지도자형",
+        "img": "https://media.istockphoto.com/id/171096041/ko/%EC%82%AC%EC%A7%84/%EB%AF%B8%EC%86%8C-%EB%B3%80%ED%98%B8%EC%82%AC-%EC%A5%A0-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EB%B2%95%EC%A0%95.jpg?s=612x612&w=0&k=20&c=o1guOZ3z71kwLSFlnmhRTnktGH4WkWYMALCUmHtrppU=",
+        "description": [
+            {
+                "des": "개인의 역량이 매우 뛰어난 사람"
+            },
+            {
+                "des": "원하는 방향으로 이끌 수 있습니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1560252693/ko/%EC%82%AC%EC%A7%84/%EC%82%AC%EB%AC%B4%EC%8B%A4%EC%97%90%EC%84%9C-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%A5%BC-%EA%B5%90%ED%99%98%ED%95%98%EB%8A%94-%EB%91%90-%EB%AA%85%EC%9D%98-%EA%B8%88%EC%9C%B5-%EA%B8%B0%EC%97%85%EA%B0%80.jpg?s=612x612&w=0&k=20&c=htKKUB41_hsvvH6sTU-05ugGH98JOvGJLnY1fpivdoM=",
+                "subhead": "컨설턴트",
+                "des": "임원"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1296921585/ko/%EC%82%AC%EC%A7%84/%EC%98%88%EC%81%9C-%EC%97%AC%EC%9E%90-%EB%8D%B0-%EC%9E%AC%EB%AF%B8-%EB%8F%99%EC%95%88-%EB%A7%8C%EB%93%A4%EA%B8%B0-%ED%8C%8C%EC%8A%A4%ED%83%80-%EC%97%90-%ED%99%88.jpg?s=612x612&w=0&k=20&c=W_vhJt7ksg_mmAY8A1DpaJXl-jMdW8HgxutS8lfW5fE=",
+                "subhead": "전업주부",
+                "des": "마사지사"
+            }
+        ]
+    }
 }

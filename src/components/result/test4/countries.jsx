@@ -13,7 +13,7 @@ const Profile = () => {
     const url = window.location.href;
     const { test4Name } = useParams();
     const nation = Countries[test4Name];
-
+    console.log('test4Name', test4Name);
     if (!nation) {
         return <div>존재하지 않는 결과입니다.</div>;
     }

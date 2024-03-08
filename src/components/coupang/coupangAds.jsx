@@ -7,7 +7,15 @@ const CoupangAds = () => {
         setShowModal(false);
     };
 
-    useEffect(() => {}, []);
+    useEffect(() => {
+        const receiveMsgFn = (event) => {
+            if (event.data.type === 'adClicked') {
+                console.log('쿠팡 클릭');
+                setShowModal(false);
+            }
+        };
+        window.addEventListener('message', receiveMsgFn);
+    }, []);
 
     return (
         <>
@@ -18,7 +26,7 @@ const CoupangAds = () => {
                 centered
                 backdrop="static"
             >
-                <Modal.Header closeButton></Modal.Header>
+                {/* <Modal.Header closeButton></Modal.Header> */}
                 <Modal.Body style={{ height: '330px', overflowY: 'auto' }}>
                     <iframe
                         src="https://coupa.ng/ce7YDZ"
