@@ -8,6 +8,7 @@ import FacebookBtn from '../../shareSNS/facebookShareButton';
 import KakaoBtn from '../../shareSNS/kakaoShareButton';
 import TwitterBtn from '../../shareSNS/twitterShareButton';
 import styles from './countries.module.css';
+import CoupangAds from '../../coupang/coupangAds';
 
 const Profile = () => {
     const url = window.location.href;
@@ -22,6 +23,7 @@ const Profile = () => {
     };
     return (
         <>
+            <CoupangAds />
             <div className={styles.wrapper} key={nation.id}>
                 <div className={styles.container}>
                     <div className={styles.header}>
