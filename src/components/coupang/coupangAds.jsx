@@ -26,16 +26,16 @@ const CoupangAds = () => {
                 centered
                 backdrop="static"
             >
-                {/* <Modal.Header closeButton></Modal.Header> */}
+                <Modal.Header closeButton></Modal.Header>
                 <Modal.Body style={{ height: '330px', overflowY: 'auto' }}>
                     <iframe
-                        src="https://coupa.ng/ce7YDZ"
-                        width="400"
-                        height="250"
+                        src="https://ads-partners.coupang.com/widgets.html?id=763535&template=carousel&trackingCode=AF6213122&subId=&width=200&height=200&tsource="
+                        width="200"
+                        height="200"
+                        frameBorder="0"
                         scrolling="no"
-                        referrerpolicy="unsafe-url"
-                        browsingtopics
-                    ></iframe>
+                        referrerPolicy="unsafe-url"
+                    />
                     <p style={{ marginTop: '15px', fontSize: '11px' }}>
                         이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른
                         일정액의 수수료를 제공받습니다.

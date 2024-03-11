@@ -1,666 +1,619 @@
 {
-	"INTJ": {
-		"id": "INTJ",
-		"subhead": "아는 만큼 보인다! 여행모범생인 당신",
-		"subject": "전 세계가 원하던 도시 이스탄불, 터키",
-
-		"nickname": "과학자형",
-		"img": "https://cdn.pixabay.com/photo/2019/03/08/19/52/galata-4043037_960_720.jpg",
-		"description": [
-			{
-				"des": "계획적이고 분석력이 대개 분석력이 높은 편이에요"
-			},
-			{
-				"des": "1분 1초까지 철저하게 계획하는 것을 좋아해요"
-			},
-			{
-				"des": "개인주의적인 성향이 강해 타인에게 감정을 잘 드러내지 않는 편이에요"
-			},
-			{
-				"des": "마음을 연 상대에게도 무뚝뚝한 듯 보이지만 쑥스러워 티 내지 않아요"
-			},
-			{
-				"des": "실용주의적이라 여행지에서 쓸데없는 소비는 하지 않는 편이에요"
-			},
-			{
-				"des": "여행 중에도 종종 혼자만의 시간이 필요한 타입이에요"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/d5/fe/5c/d5fe5cd2078347a27be35c88cf242ec2.jpg",
-				"subhead": "ENTP",
-				"des": "열정의 도시 마드리드, 스페인"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/93/26/c5/9326c5020322d5e9113501391fda04ee.jpg",
-				"subhead": "ESFP",
-				"des": " 호수의 도시 루가노, 스위스"
-			}
-		]
-	},
-	"INTP": {
-		"id": "INTP",
-		"subhead": "혼자라서 즐거워~ 자유가 최고야! 라는 당신",
-		"subject": "세계에서 별 보기 가장 좋은 곳 아타카마 사막, 칠레",
-		"nickname": "아이디어뱅크형",
-		"img": "https://cdn.pixabay.com/photo/2021/01/25/13/45/valle-de-la-luna-5948365_960_720.jpg",
-		"description": [
-			{
-				"des": "MBTI 같은 자아 분석을 좋아하는 타입이에요!"
-			},
-			{
-				"des": "내향적인 성향이 강해 여행 중에도 사람에게 관심을 가지는 일이 드물어요"
-			},
-			{
-				"des": "여행 중에 혼자만의 시간이 매우 중요한 타입이에요"
-			},
-			{
-				"des": "가끔씩은 즉흥적인 행동을 하고 싶어질 때가 있어요"
-			},
-			{
-				"des": "여행 중에도 교통수단, 숙소 등 최대한 효율적인 선택을 하는 편이에요"
-			},
-			{
-				"des": "전체 인구의 3.3%, 한국인의 3% 비율로 상당히 적은 유형이에요"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/bb/fb/b9/bbfbb9ed1e78e47dc89100fd20fced5f.jpg",
-				"subhead": "ENTJ",
-				"des": "푸른 왕국 쉐프샤우엔, 모로코"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/4a/50/fe/4a50fe06a53e681dc819ff046c98e4e6.jpg",
-				"subhead": "ESFJ ",
-				"des": "빛의 도시 파리, 프랑스"
-			}
-		]
-	},
-	"INFJ": {
-		"id": "INFJ",
-		"subhead": "여행만큼 좋은 힐링이 있을까? 라는 당신",
-		"subject": "알프스의 나라 체르마트, 스위스",
-		"nickname": "예언가형",
-		"img": "https://i.pinimg.com/564x/25/3b/d8/253bd8da8ee271e1b8b0c7e57f17b96a.jpg",
-		"description": [
-			{
-				"des": "여행 중 상대편을 잘 맞춰주지만, 속에서 들끓는 불만을 표출하진 않아요!"
-			},
-			{
-				"des": "그렇지만 가끔 조심스럽게 할 말을 다 하는 경우도 가끔은 있어요"
-			},
-			{
-				"des": "상대방을 배려하는 척하며 본인이 원하는 방향으로 잘 유도한답니다"
-			},
-			{
-				"des": "함께 여행한 뒤 자신과 별로 맞지 않았다면 조용히 손절하는 타입!"
-			},
-			{
-				"des": "인내심과 배려심이 많고 알고 보면 따뜻한 사람이에요"
-			},
-			{
-				"des": "여행지에 대해서 호불호가 크게 나뉘는 타입이에요"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/e9/7a/73/e97a73cf39c6af24dbe8c96b89fc8251.jpg",
-				"subhead": "ENFP",
-				"des": "잠들지 않는 섬 이비자, 스페인"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/b2/f6/6c/b2f66c6580649d8e0220e9b6160e528f.jpg",
-				"subhead": "ESTP",
-				"des": "지구의 천장 포카라, 네팔"
-			}
-		]
-	},
-	"INFP": {
-		"id": "INFP",
-		"subhead": "영화나 드라마에서 나오는 장소의 주인공인 당신 ",
-		"subject": "나만 알고 싶은 소도시 과나후아토, 멕시코",
-		"nickname": "열정적인 중재자",
-		"img": "https://i.pinimg.com/564x/e4/80/f5/e480f54e812e0b9d6f9b13df98f3624d.jpg",
-		"description": [
-			{
-				"des": "말 그대로 가성비 러버! 효율성을 사랑하는 타입이에요"
-			},
-			{
-				"des": "남의 눈치를 많이 보지만 눈치가 빠르고 공감력이 뛰어난 편이에요"
-			},
-			{
-				"des": "여행이 싫지는 않지만 귀찮아서 못가는 유형이에요"
-			},
-			{
-				"des": "여행 중에 문화 체험,유적지 문화재 관람,자연환경 감상을 좋아할 확률이 높아요!"
-			},
-			{
-				"des": "여행 중 일기를 적거나 사진을 찍어서 기록하고 추억을 남기는 것을 좋아해요!"
-			},
-			{
-				"des": "집돌이,집순이 성향이 강해 여행지에선 숙소가 중요한 타입이에요"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/63/28/df/6328dfcb31c1dc4cc5f1796f9525dfe9.jpg",
-				"subhead": "ENFJ",
-				"des": "스머프의 고향 알베로벨로, 이탈리아"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/4a/50/fe/4a50fe06a53e681dc819ff046c98e4e6.jpg",
-				"subhead": "ESFJ",
-				"des": "빛의 도시 파리, 프랑스"
-			}
-		]
-	},
-	"ISTJ": {
-		"id": "ISTJ",
-		"subhead": "여행계획은 출발 세 달 전부터 세우는 거야! 라는 당신",
-		"subject": "낭만의 도시 프라하, 체코",
-		"nickname": "세상의 소금형",
-		"img": "https://i.pinimg.com/564x/a3/38/d9/a338d9ee09c35a904f5e03f2452ae028.jpg",
-		"description": [
-			{
-				"des": "여행계획은 언제나 나의 몫!"
-			},
-			{
-				"des": "여행마저도 철저히 계획하에 움직여야 하는 성향이에요"
-			},
-			{
-				"des": "예약 전 쿠폰, 할인등으로 최대한 합리적으로 소비하는 것을 좋아해요"
-			},
-			{
-				"des": "여행 중에 예정에 없던 일이 일어나는 것을 극도로 싫어해요!"
-			},
-			{
-				"des": "즉흥적인 여행을 좋아하는 사람과 여행을 다니다가는 큰일 날 수 있어요!"
-			},
-			{
-				"des": "성향이 잘 맞는 친구와 함께라면 제일 든든한 여행 메이트가 될 확률이 높아요!"
-			},
-			{
-				"des": "but 반대인 성향의 사람과 여행하면 빈틈이 없는 노잼 여행메이트가 될 확률이 높으니 조심하세요"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/b2/f6/6c/b2f66c6580649d8e0220e9b6160e528f.jpg",
-				"subhead": "ESTP",
-				"des": "지구의 천장 포카라, 네팔"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/e9/7a/73/e97a73cf39c6af24dbe8c96b89fc8251.jpg",
-				"subhead": "ENFP",
-				"des": "잠들지 않는 섬 이비자, 스페인"
-			}
-		]
-	},
-	"ISFJ": {
-		"id": "ISFJ",
-		"subhead": "여유롭지만 가성비 좋은 여행이 좋은 당신",
-		"subject": "환상의 섬 사르데냐, 이태리",
-		"nickname": "임금뒷편의 권력형",
-		"img": "https://i.pinimg.com/564x/2e/4f/72/2e4f721b8c47aff9ef7303147d62f328.jpg",
-		"description": [
-			{
-				"des": "눈치가 상당히 빨라 함께 여행하기 좋은 타입이에요!"
-			},
-			{
-				"des": "섬세하고 상대방의 의견을 경청하는 유형이라 단체여행에 꼭 필요한 사람이에요"
-			},
-			{
-				"des": "대비가 철저한 타입이라 여행 시에 짐이 많은 편이에요"
-			},
-			{
-				"des": "사소한 것들을 잘 기억해 여행지에서 있던 일들을 잘 기억해요"
-			},
-			{
-				"des": "새로운 여행지보다 이전에 가봤던 여행지를 선호해요!"
-			},
-			{
-				"des": "남들을 배려하는 성향이 때로는 본인의 여행을 힘들게 한다"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/93/26/c5/9326c5020322d5e9113501391fda04ee.jpg",
-				"subhead": "ESFP",
-				"des": " 호수의 도시 루가노, 스위스"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/d5/fe/5c/d5fe5cd2078347a27be35c88cf242ec2.jpg",
-				"subhead": "ENTP",
-				"des": "열정의 도시 마드리드, 스페인"
-			}
-		]
-	},
-	"ISTP": {
-		"id": "ISTP",
-		"subhead": "혼자가 좋지만 그렇다고 심심한 건 싫은 당신",
-		"subject": "비슷한 듯 다른,다른듯 비슷한 도시 도쿄, 일본",
-		"nickname": "백과사전형",
-		"img": "https://i.pinimg.com/564x/d2/0f/23/d20f2344aaa0ec4a22430526c21f0887.jpg",
-		"description": [
-			{
-				"des": "평소엔 소극적이지만 여행지에선 대담해지는 타입이에요!"
-			},
-			{
-				"des": "여행 중에 가끔 특이한 것에 확 꽂히는 경우가 종종 있어요"
-			},
-			{
-				"des": "여행계획은 세세하게 짜지 않고 큰 틀만 계획하고 떠나는 성향이 높아요"
-			},
-			{
-				"des": "포기가 빠른 편이라 식당을 줄 서서 기다리지 않아요"
-			},
-			{
-				"des": "여럿보단 혼자 여행하는 것을 즐기는 편이에요"
-			},
-			{
-				"des": "혼자 놀기의 끝판왕이라 혼밥, 여행, 영화관도 무리 없어요!"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/bc/86/f6/bc86f6871d4e63239ae8a8898b097de7.jpg",
-				"subhead": "ESTJ",
-				"des": "밤이 가장 아름다운 도시 부다페스트, 헝가리"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/63/28/df/6328dfcb31c1dc4cc5f1796f9525dfe9.jpg",
-				"subhead": "ENFJ",
-				"des": "스머프의 고향 알베로벨로, 이탈리아"
-			}
-		]
-	},
-	"ISFP": {
-		"id": "ISFP",
-		"subhead": "여행계의 메딕. 힐링 여행 러버인 당신",
-		"subject": "힐링 여행의 끝판왕 밀포드 사운드, 뉴질랜드",
-		"nickname": "성인군자형",
-		"img": "https://i.pinimg.com/564x/af/dd/76/afdd76c76f41b1f4c2bb65e590089a2e.jpg",
-		"description": [
-			{
-				"des": "타고난 결정장애 스타일이라 최종결정을 힘들어할 때가 있어요"
-			},
-			{
-				"des": "상대방을 배려하는 배려심이 깊어 함께 여행하면 좋아요"
-			},
-			{
-				"des": "여행지에서 종종 분위기에 취할 때가 있어요"
-			},
-			{
-				"des": "혼자만의 시간을 좋아해 혼자 여행을 떠나기 좋아해요"
-			},
-			{
-				"des": "본인이 좋아하는 일에는 가끔 열정이 넘쳐요"
-			},
-			{
-				"des": "주변 사람들의 분위기에 따라 성격이 잘 변하는 편이에요"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/4a/50/fe/4a50fe06a53e681dc819ff046c98e4e6.jpg",
-				"subhead": "ESFJ",
-				"des": "빛의 도시 파리, 프랑스"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/bb/fb/b9/bbfbb9ed1e78e47dc89100fd20fced5f.jpg",
-				"subhead": "ENTJ",
-				"des": "푸른 왕국 쉐프샤우엔, 모로코"
-			}
-		]
-	},
-	"ESTP": {
-		"id": "ESTP",
-		"subhead": "우리는 모두 친구! 모든 지구인은 내 친구인 당신",
-		"subject": "지구의 천장 포카라, 네팔",
-		"nickname": "인싸형",
-		"img": "https://i.pinimg.com/564x/b2/f6/6c/b2f66c6580649d8e0220e9b6160e528f.jpg",
-		"description": [
-			{
-				"des": "문제해결 능력이 높아 여행지에서 일어나는 돌발상황을 잘 대처하는 편이에요"
-			},
-			{
-				"des": "즐기며 사는 삶을 추구하는 경향이 높아 여행을 누구보다 사랑하는 사람이에요!"
-			},
-			{
-				"des": "스릴과 자유분방함을 좋아해 여행 중에 액티비티 활동을 많이 하는 편이에요"
-			},
-			{
-				"des": "사람을 좋아해 누구든지 자신의 친구로 만들 수 있어요"
-			},
-			{
-				"des": "가끔 여행지에서 사업 아이템을 발견하고 눈독 들이는 일이 발생하기도 해요"
-			},
-			{
-				"des": "감정 기복이 심한 사람이랑 여행하는 것을 많이 힘들어해요"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/a3/38/d9/a338d9ee09c35a904f5e03f2452ae028.jpg",
-				"subhead": "ISTJ",
-				"des": "낭만의 도시 프라하, 체코"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/25/3b/d8/253bd8da8ee271e1b8b0c7e57f17b96a.jpg",
-				"subhead": "INFJ",
-				"des": "알프스의 나라 체르마트, 스위스"
-			}
-		]
-	},
-	"ESFP": {
-		"id": "ESFP",
-		"subhead": "여행계의 얼리어답터인 당신",
-		"subject": " 호수의 도시 루가노, 스위스",
-		"nickname": "인맥왕",
-		"img": "https://i.pinimg.com/564x/54/b6/b3/54b6b3ed8b24a17a27f2ffe028713f3d.jpg",
-		"description": [
-			{
-				"des": "항상 텐션이 높아서 함께 여행한다면 힘들 수도 있어요!"
-			},
-			{
-				"des": "면세점과 아울렛에서 충동구매를 할 때가 종종 있어요"
-			},
-			{
-				"des": "타고난 인싸라서 여행 중에는 인스타가 조용할 날이 없어요"
-			},
-			{
-				"des": "여행 중 제일 설레는 시간은 여행 가기 전!"
-			},
-			{
-				"des": "신나고 재미있는 성격이라 여행지에서도 많은 친구를 만들어요"
-			},
-			{
-				"des": "매우 덜렁거려서 옆에서 잘 챙겨주는 타입의 사람과 여행하면 좋아요!"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/2e/4f/72/2e4f721b8c47aff9ef7303147d62f328.jpg",
-				"subhead": "ISFJ",
-				"des": "환상의 섬 사르데냐, 이태리"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://cdn.pixabay.com/photo/2019/03/08/19/52/galata-4043037_960_720.jpg",
-				"subhead": "INTJ",
-				"des": "전세계가 원하던 도시 이스탄불, 터키"
-			}
-		]
-	},
-
-	"ENTJ": {
-		"id": "ENTJ",
-		"subhead": "여행지에서 국밥처럼 든든한 당신",
-		"subject": "푸른 왕국 쉐프샤우엔, 모로코",
-		"nickname": "지도자형",
-		"img": "https://i.pinimg.com/564x/bb/fb/b9/bbfbb9ed1e78e47dc89100fd20fced5f.jpg",
-		"description": [
-			{
-				"des": "타고난 지도자형답게 여행계획도 역할분담을 확실하게 나눠요!"
-			},
-			{
-				"des": "혼자 있는 것을 싫어하는 편이라 주로 함께하는 여행을 하는 편이에요"
-			},
-			{
-				"des": "가끔 고집이 센 것처럼 보이기도 하지만 자기 생각이 잘못된 것이 확인되면 바로 수긍하는 편이에요"
-			},
-			{
-				"des": "지적 욕구가 강해 여행 전 미리 여행 정보에 대해 빠삭하게 알고 가는 편이에요"
-			},
-			{
-				"des": "효율성을 추구하는 타입이라 여행 중에 무의미하게 시간을 보내는 것을 싫어해요"
-			},
-			{
-				"des": "항상 실행하기 전에 계획부터 하는 유형이에요!"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://cdn.pixabay.com/photo/2021/01/25/13/45/valle-de-la-luna-5948365_960_720.jpg",
-				"subhead": "INTP",
-				"des": "세계에서 별 보기 가장 좋은 곳 아타카마 사막, 칠레"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/af/dd/76/afdd76c76f41b1f4c2bb65e590089a2e.jpg",
-				"subhead": "ISFP",
-				"des": "힐링 여행의 끝판왕 밀포드 사운드, 뉴질랜드"
-			}
-		]
-	},
-	"ENTP": {
-		"id": "ENTP",
-		"subhead": "남는 건 결국 음식이야! 미식가인 당신",
-		"subject": "열정의 도시 마드리드, 스페인",
-		"nickname": "발명가형",
-		"img": "https://i.pinimg.com/564x/d5/fe/5c/d5fe5cd2078347a27be35c88cf242ec2.jpg",
-		"description": [
-			{
-				"des": "아는 게 너무 많아서 여행지에서 투머치토커가 될 확률이 높아요!"
-			},
-			{
-				"des": "자기주장이 강해 여행 중에 가끔 난처한 경우가 생길 수 있어요"
-			},
-			{
-				"des": "타고난 언변으로 함께 여행한다면 심심할 일 없는 타고난 입담을 소유한 사람일 확률이 높아요!"
-			},
-			{
-				"des": "가끔 이걸 모른다고? 싶을 정도로 관심 없는 것에는 아예 신경을 쓰지 않아요"
-			},
-			{
-				"des": "여행도 일상처럼 예약과 계획을 철저히 하는 편이에요!"
-			},
-			{
-				"des": "독립적인 성격으로 누군가 주도하는 여행을 함께 한다면 좋아하지 않을 확률이 높아요!"
-			},
-			{
-				"des": "가끔 하나의 주제로 두 시간 동안 얘기할 수 있는 특별한 능력을 소유하고 있어요!"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://cdn.pixabay.com/photo/2019/03/08/19/52/galata-4043037_960_720.jpg",
-				"subhead": "INTJ",
-				"des": "전세계가 원하던 도시 이스탄불, 터키"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/2e/4f/72/2e4f721b8c47aff9ef7303147d62f328.jpg",
-				"subhead": "ISFJ",
-				"des": "환상의 섬 사르데냐, 이태리"
-			}
-		]
-	},
-	"ENFJ": {
-		"id": "ENFJ",
-		"subhead": "작고 사소한 것까지 다 아름다운 감수성이 넘치는 당신",
-		"subject": "스머프의 고향 알베로벨로, 이탈리아",
-		"nickname": "언변능숙형",
-		"img": "https://i.pinimg.com/564x/63/28/df/6328dfcb31c1dc4cc5f1796f9525dfe9.jpg",
-		"description": [
-			{
-				"des": "적극적이고 추진력이 강해 단체여행에서 활발한 타입이에요"
-			},
-			{
-				"des": "여행 중에 사서 고생할 확률이 높아요!"
-			},
-			{
-				"des": "준비가 철저해서 여행 중에 없는 물건이 없어요"
-			},
-			{
-				"des": "친화력이 높아 여행지에서도 인싸일 확률이 높아요!"
-			},
-			{
-				"des": "때때로 감정 기복이 심해 감수성이 넘치는 때가 있어요"
-			},
-			{
-				"des": "국내에서 1%의 비율로 가장 적은 유형의 타입이에요"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/e4/80/f5/e480f54e812e0b9d6f9b13df98f3624d.jpg",
-				"subhead": "INFP",
-				"des": "나만 알고 싶은 소도시 과나후아토, 멕시코"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/d2/0f/23/d20f2344aaa0ec4a22430526c21f0887.jpg",
-				"subhead": "ISTP",
-				"des": "비슷한 듯 다른,다른듯 비슷한 도시 도쿄, 일본"
-			}
-		]
-	},
-	"ENFP": {
-		"id": "ENFP",
-		"subhead": "물 흐르듯 흘러가는 대로 여행하는 자유로운 영혼인 당신",
-		"subject": "잠들지 않는 섬 이비자, 스페인",
-		"nickname": "스파크형",
-		"img": "https://i.pinimg.com/564x/e9/7a/73/e97a73cf39c6af24dbe8c96b89fc8251.jpg",
-		"description": [
-			{
-				"des": "새로운 사람을 만나기 좋아해서 어디에서나 친구를 만들어요 "
-			},
-			{
-				"des": "여행 중 사람을 만나는 것을 좋아하지만, 때론 혼자만의 시간이 필요한 때가 있어요"
-			},
-			{
-				"des": "멋 내고 꾸미는 것을 좋아해서 여행지에서도 언제나 패피에요!"
-			},
-			{
-				"des": "여행 중에 계획 없이 그때그때 일어나는 일을 즐겨요"
-			},
-			{
-				"des": "여행지에서 관심이 끌리지 않는 장소가 있으면 눈길도 주지 않는 편이에요"
-			},
-			{
-				"des": "가끔 고집스러운 면이 있지만, 그렇다고 심하게 고집을 부리지는 않아요!"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/25/3b/d8/253bd8da8ee271e1b8b0c7e57f17b96a.jpg",
-				"subhead": "INFJ",
-				"des": "알프스의 나라 체르마트, 스위스"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/a3/38/d9/a338d9ee09c35a904f5e03f2452ae028.jpg",
-				"subhead": "ISTJ",
-				"des": "낭만의 도시 프라하, 체코"
-			}
-		]
-	},
-	"ESTJ": {
-		"id": "ESTJ",
-		"subhead": "타고난 리더! 여행 단톡방의 독재자인 당신",
-		"subject": "밤이 가장 아름다운 도시 부다페스트, 헝가리",
-		"nickname": "사업가형",
-		"img": "https://i.pinimg.com/564x/bc/86/f6/bc86f6871d4e63239ae8a8898b097de7.jpg",
-		"description": [
-			{
-				"des": "여행에서마저도 계획적이고 체계적인 모습이 드러나는 편이에요"
-			},
-			{
-				"des": "자신의 계획에 있어서 주관이 뚜렷한 편이에요"
-			},
-			{
-				"des": "계획이 틀어지는 일이 발생하면 매우 싫어해요!"
-			},
-			{
-				"des": "호불호가 확실해 때로는 여행하기 편한 점도 있어요"
-			},
-			{
-				"des": "힐링 여행 보다는 이곳저곳 다 돌아다니는 여행을 선호해요"
-			},
-			{
-				"des": "외로움을 별로 타지 않는 스타일이에요"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/d2/0f/23/d20f2344aaa0ec4a22430526c21f0887.jpg",
-				"subhead": "ISTP",
-				"des": "비슷한 듯 다른,다른듯 비슷한 도시 도쿄, 일본"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://i.pinimg.com/564x/e4/80/f5/e480f54e812e0b9d6f9b13df98f3624d.jpg",
-				"subhead": "INFP",
-				"des": "나만 알고 싶은 소도시 과나후아토, 멕시코"
-			}
-		]
-	},
-	"ESFJ": {
-		"id": "ESFJ",
-		"subhead": "사랑하는 사람들과 사랑하는 장소를 함께하고 싶은 당신",
-		"subject": "빛의 도시 파리, 프랑스",
-		"nickname": "친선도모형",
-		"img": "https://i.pinimg.com/564x/4a/50/fe/4a50fe06a53e681dc819ff046c98e4e6.jpg",
-		"description": [
-			{
-				"des": "친구들의 선호도를 기반으로 여행을 계획하는 배려심이 많은 유형이에요"
-			},
-			{
-				"des": "리액션이 부자라서 함께 여행하면 심심하지 않아요!"
-			},
-			{
-				"des": "여행 중 평화를 위해서 본인을 희생하는 편이에요"
-			},
-			{
-				"des": "사교적인 성향 탓에 누구와 함께하는 여행을 좋아해요"
-			},
-			{
-				"des": "긍정적이고 낙천적인 성격을 가지고 있어요"
-			},
-			{
-				"des": "즉흥적인 행동은 후회하는 경우가 많아 대부분 계획을 세우고 행동해요"
-			}
-		],
-		"duo": [
-			{
-				"img": "https://i.pinimg.com/564x/af/dd/76/afdd76c76f41b1f4c2bb65e590089a2e.jpg",
-				"subhead": "ISFP",
-				"des": "힐링 여행의 끝판왕 밀포드 사운드, 뉴질랜드"
-			}
-		],
-		"counter": [
-			{
-				"img": "https://cdn.pixabay.com/photo/2021/01/25/13/45/valle-de-la-luna-5948365_960_720.jpg",
-				"subhead": "INTP",
-				"des": "세계에서 별 보기 가장 좋은 곳 아타카마 사막, 칠레"
-			}
-		]
-	}
+    "ISTJ": {
+        "id": "ISTJ",
+        "subhead": "ISTJ",
+        "subject": "#9d9c97",
+        "nickname": "세상의 소금형",
+        "img": "https://media.istockphoto.com/id/1468277874/ko/%EC%82%AC%EC%A7%84/%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EC%9C%A0%EC%84%B1-%ED%8E%98%EC%9D%B8%ED%8A%B8-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC-%EC%83%81%EC%9C%84-%EB%B7%B0.jpg?s=612x612&w=0&k=20&c=PnF6eOeWJDQwK-GpHVRQzMBLvL2ivpD-B0B71PJVSx8=",
+        "description": [
+            {
+                "des": "꼼꼼하고 예민하며 완벽을 추구하는 성격입니다"
+            },
+            {
+                "des": "도덕적이고 예의가 바른 편입니다"
+            },
+            {
+                "des": "똑똑하고 두뇌회전이 빨라서 학교나 회사에서 늘 인정받는 사람입니다"
+            },
+            {
+                "des": "자기 자신에게 엄격한 편이라 덤벙대거나 잔실수를 거의 하지 않습니다"
+            },
+            {
+                "des": "대인관계는 대체로 좋은 편이며 친해지면 잔소리하면서 챙겨주는 타입입니다"
+            },
+            {
+                "des": "상식 이하로 구는 예의 없는 사람을 굉장히 싫어합니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1976750696/ko/%EC%82%AC%EC%A7%84/paint-brush-stroke-texture-watercolor-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=DA8QFgxFgzTLbewh9sWBc6n0qfXvP_N0PgjcaCysdhw=",
+                "subhead": "#d4f29c",
+                "des": "ENFP"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1976756138/ko/%EC%82%AC%EC%A7%84/%EB%A6%BD%EC%8A%A4%ED%8B%B1-%EB%98%90%EB%8A%94-%EC%95%84%ED%81%AC%EB%A6%B4-%EB%AC%BC%EA%B0%90%EC%9D%98-%EB%B2%88%EC%A7%90%EA%B3%BC-%EC%A7%88%EA%B0%90%EC%9D%B4-%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EA%B3%A0%EB%A6%BD%EB%90%98%EC%96%B4-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%A6%BD%EA%B8%80%EB%A1%9C%EC%8A%A4-%EB%98%90%EB%8A%94-%EC%95%A1%EC%B2%B4-%EB%A7%A4%EB%8B%88%ED%81%90%EC%96%B4-%EA%B2%AC%EB%B3%B8-%EC%96%BC%EB%A3%A9-%EC%83%98%ED%94%8C%EC%9D%98-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC-%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%80-%ED%99%94%EC%9E%A5%ED%92%88-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9A%94%EC%86%8C.jpg?s=612x612&w=0&k=20&c=yJTbQQCWAxUxnZvvBwDFM10ToV2UnAkq-P_thaDkkYI=",
+                "subhead": "#f99fae",
+                "des": "ENFJ"
+            }
+        ]
+    },
+    "ISFJ": {
+        "id": "ISFJ",
+        "subhead": "ISFJ",
+        "subject": "#81b2ff",
+        "nickname": "임금뒷편의 권력형",
+        "img": "https://media.istockphoto.com/id/1133395849/ko/%EC%82%AC%EC%A7%84/%EC%B6%94%EC%83%81-%EC%95%84%ED%81%AC%EB%A6%B4-%EC%BB%AC%EB%9F%AC-%EB%B8%8C%EB%9F%AC%EC%8B%9C-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC%EC%9E%85%EB%8B%88%EB%8B%A4-%ED%9D%B0%EC%83%89-%EC%A0%88%EC%97%B0-%EB%B8%94-%EB%9F%BF.jpg?s=612x612&w=0&k=20&c=9NYMdyYK8oRq6pUJtrBOvTekPYtYj-pOBKSyKwllko8=",
+        "description": [
+            {
+                "des": "온화한 성격에 다정하고 책임감이 강하며 세심한 성격입니다"
+            },
+            {
+                "des": "차분하고 조용한 성향을 갖고 있지만 친한 사람과 있으면 적극적이고 활발한 면도 자주 나옵니다"
+            },
+            {
+                "des": "남을 신경쓰는 편이라 친절하고 따뜻해서 인기가 많습니다"
+            },
+            {
+                "des": "의리가 있고 입이 무거운 편이라 친구가 비밀을 말하면 끝까지 비밀을 지켜주는 스타일입니다"
+            },
+            {
+                "des": "마음속으로 정해둔 선을 넘으면 가차없이 손절하는 편입니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1157899358/ko/%EC%82%AC%EC%A7%84/%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EB%B6%84%EB%A6%AC-%EB%90%9C-%EC%BB%A8%EC%8B%A4%EB%9F%AC-%EB%A9%94%EC%9D%B4%ED%81%AC%EC%97%85-%EC%A0%9C%ED%92%88.jpg?s=612x612&w=0&k=20&c=FTq8rGAD_cJrYb0mVahc1pEaugIVJfnbu8UO0vuj0d8=",
+                "subhead": "#d6c7b9",
+                "des": "ENTP"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1976755613/ko/%EC%82%AC%EC%A7%84/%EB%A6%BD%EC%8A%A4%ED%8B%B1-%EB%98%90%EB%8A%94-%EC%95%84%ED%81%AC%EB%A6%B4-%EB%AC%BC%EA%B0%90%EC%9D%98-%EB%B2%88%EC%A7%90%EA%B3%BC-%EC%A7%88%EA%B0%90%EC%9D%B4-%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EA%B3%A0%EB%A6%BD%EB%90%98%EC%96%B4-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%A6%BD%EA%B8%80%EB%A1%9C%EC%8A%A4-%EB%98%90%EB%8A%94-%EC%95%A1%EC%B2%B4-%EB%A7%A4%EB%8B%88%ED%81%90%EC%96%B4-%EA%B2%AC%EB%B3%B8-%EC%96%BC%EB%A3%A9-%EC%83%98%ED%94%8C%EC%9D%98-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC-%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%80-%ED%99%94%EC%9E%A5%ED%92%88-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9A%94%EC%86%8C.jpg?s=612x612&w=0&k=20&c=hwIiCem6jLCgeZPPqoDpNzYsFYSLOKQlyYtFAyktogk=",
+                "subhead": "#b3eaa6",
+                "des": "ENTJ"
+            }
+        ]
+    },
+    "INFJ": {
+        "id": "INFJ",
+        "subhead": "INFJ",
+        "subject": "#ccb1de",
+        "nickname": "예언자형",
+        "img": "https://media.istockphoto.com/id/1976757939/ko/%EC%82%AC%EC%A7%84/smear-and-texture-of-lipstick-or-acrylic-paint-isolated-on-white-background-stroke-of-lipgloss.jpg?s=612x612&w=0&k=20&c=VY5CuqArEYm9irKuxIGYWqkkUxZfXXCvqObc0uEJ5as=",
+        "description": [
+            {
+                "des": "겉으로는 순하고 온화해 보이지만 속은 철저하고 강단있는 외유내강 성격입니다"
+            },
+            {
+                "des": "한쪽 말만 듣고 판단하지 않고 모든 사람의 의견을 이해해 보려고 합니다"
+            },
+            {
+                "des": "예의 바르고 매너 있으며 다정한 성격이라 사람들이 좋아합니다"
+            },
+            {
+                "des": "다른 사람의 말보다는 직접 겪어보고 판단하는 편입니다"
+            },
+            {
+                "des": "자기를 겉모습만 보고 판단하는 것을 굉장히 싫어합니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1976781529/ko/%EC%82%AC%EC%A7%84/smear-and-texture-of-lipstick-or-acrylic-paint-isolated-on-white-background-stroke-of-lipgloss.jpg?s=612x612&w=0&k=20&c=16QLD-oDIqUfwyWBcZ6BDNVnRb14CwQAEU7j8MqTypw=",
+                "subhead": "#a9ebd6",
+                "des": "ESTP"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/184374694/ko/%EC%82%AC%EC%A7%84/%EC%95%A1%EC%B2%B4%ED%98%95-foundation-%EB%8F%84%EB%A7%90%EA%B2%80%EC%82%AC%EA%B0%80.jpg?s=612x612&w=0&k=20&c=Fn0XMNH_1Iq2CPi3nw4IWzUQuXvQrzPQtihQ96nPT9E=",
+                "subhead": "#ffbf96",
+                "des": "ESTJ"
+            }
+        ]
+    },
+    "INTJ": {
+        "id": "INTJ",
+        "subhead": "INTJ",
+        "subject": "#e63e4f",
+        "nickname": "과학자형",
+        "img": "https://media.istockphoto.com/id/1353349433/ko/%EC%82%AC%EC%A7%84/%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EB%B9%A8%EA%B0%84-%EB%A6%BD%EC%8A%A4%ED%8B%B1-%EC%A7%88%EA%B0%90-%ED%81%AC%EB%A6%BC-%EB%A9%94%EC%9D%B4%ED%81%AC%EC%97%85-%ED%85%8D%EC%8A%A4%EC%B2%98-%EB%B0%9D%EC%9D%80-%EB%B9%A8%EA%B0%84-%ED%99%94%EC%9E%A5%ED%92%88-%EB%B8%8C%EB%9F%AC%EC%8B%9C-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC-%EC%83%98%ED%94%8C.jpg?s=612x612&w=0&k=20&c=QIMW3_63euRtGkpnsBBWdyNwQP5RrlS6a3i2lRlnhMQ=",
+        "description": [
+            {
+                "des": "똑똑하고 독립적이며 공사 구분이 확실한 성격입니다"
+            },
+            {
+                "des": "성격상 칼 같을 때가 많지만 기본적으로 친절한 편이고 감수성도 풍부합니다"
+            },
+            {
+                "des": "웬만하면 속마음을 꺼내지 않는 스타일이고 다른 사람의 TMI를 좋아하지 않습니다"
+            },
+            {
+                "des": "지적 호기심이 높아 궁금한 것은 반드시 알아내야 합니다"
+            },
+            {
+                "des": "공공장소에서 피해를 주는 것을 굉장히 싫어합니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/527113751/ko/%EC%82%AC%EC%A7%84/%EC%B2%AD%EC%83%89-%ED%8E%98%EC%9D%B8%ED%8A%B8.jpg?s=612x612&w=0&k=20&c=CFLD1DA_QZtt-T69dTr-UHXiphCAEgpU5Ly7oPrOIKc=",
+                "subhead": "#9fd8f9",
+                "des": "ESFP"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1291334406/ko/%EC%82%AC%EC%A7%84/%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EB%85%B8%EB%9E%80%EC%83%89-%EC%95%A1%EC%B2%B4-%ED%8C%8C%EC%9A%B4%EB%8D%B0%EC%9D%B4%EC%85%98-%EC%96%BC%EB%A3%A9.jpg?s=612x612&w=0&k=20&c=eyVf8aZKExaAlDCQpOZWoyrRCaL6R6YWkZPsOplcZWs=",
+                "subhead": "#faee9d",
+                "des": "ESFJ"
+            }
+        ]
+    },
+    "ISTP": {
+        "id": "ISTP",
+        "subhead": "ISTP",
+        "subject": "#48518f",
+        "nickname": "백과사전형",
+        "img": "https://media.istockphoto.com/id/1215543810/ko/%EB%B2%A1%ED%84%B0/%ED%9D%B0%EC%83%89%EC%97%90-%EA%B2%A9%EB%A6%AC-%EB%B2%A1%ED%84%B0-%ED%8C%8C%EB%9E%80%EC%83%89-%ED%8E%98%EC%9D%B8%ED%8A%B8-%ED%85%8D%EC%8A%A4%EC%B2%98-%EC%95%84%ED%81%AC%EB%A6%B4-%ED%8E%98%EC%9D%B8%ED%8A%B8-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC.jpg?s=612x612&w=0&k=20&c=uOkmmz3yo5DSeqE8AXq9332Vj7lN1rtwvK4u5-rfl4c=",
+        "description": [
+            {
+                "des": "관심 있는 분야에만 시간과 에너지를 쏟는 성격입니다"
+            },
+            {
+                "des": "내가 관심이 없는 것엔 눈길조차 주지 않습니다"
+            },
+            {
+                "des": "최소의 노력으로 최대의 효과를 내려고 하는 타입입니다"
+            },
+            {
+                "des": "솔직하고 직설적으로 말하는 것을 좋아하고 귀찮은 것을 싫어합니다"
+            },
+            {
+                "des": "내 의지와는 상관 없이 낯선 상황에 놓이는 것을 싫어합니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1976756138/ko/%EC%82%AC%EC%A7%84/%EB%A6%BD%EC%8A%A4%ED%8B%B1-%EB%98%90%EB%8A%94-%EC%95%84%ED%81%AC%EB%A6%B4-%EB%AC%BC%EA%B0%90%EC%9D%98-%EB%B2%88%EC%A7%90%EA%B3%BC-%EC%A7%88%EA%B0%90%EC%9D%B4-%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EA%B3%A0%EB%A6%BD%EB%90%98%EC%96%B4-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%A6%BD%EA%B8%80%EB%A1%9C%EC%8A%A4-%EB%98%90%EB%8A%94-%EC%95%A1%EC%B2%B4-%EB%A7%A4%EB%8B%88%ED%81%90%EC%96%B4-%EA%B2%AC%EB%B3%B8-%EC%96%BC%EB%A3%A9-%EC%83%98%ED%94%8C%EC%9D%98-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC-%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%80-%ED%99%94%EC%9E%A5%ED%92%88-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9A%94%EC%86%8C.jpg?s=612x612&w=0&k=20&c=yJTbQQCWAxUxnZvvBwDFM10ToV2UnAkq-P_thaDkkYI=",
+                "subhead": "#f99fae",
+                "des": "ENFJ"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1976750696/ko/%EC%82%AC%EC%A7%84/paint-brush-stroke-texture-watercolor-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=DA8QFgxFgzTLbewh9sWBc6n0qfXvP_N0PgjcaCysdhw=",
+                "subhead": "#d4f29c",
+                "des": "ENFP"
+            }
+        ]
+    },
+    "ISFP": {
+        "id": "ISFP",
+        "subhead": "ISFP",
+        "subject": "#fff06d",
+        "nickname": "성인군자형",
+        "img": "https://media.istockphoto.com/id/1186704033/ko/%EC%82%AC%EC%A7%84/%ED%9D%B0%EC%83%89%EC%97%90-%EA%B2%A9%EB%A6%AC-%EB%90%9C-%EC%88%98%EC%B1%84%ED%99%94-%EB%85%B8%EB%9E%80%EC%83%89-%ED%85%8D%EC%8A%A4%EC%B2%98-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC.jpg?s=612x612&w=0&k=20&c=blnq68DZSasC2ENcbxCeoNADTeo11NtzXO14utpa1Xs=",
+        "description": [
+            {
+                "des": "평화의 인간화라고 할 정도로 평화주의적인 성격입니다"
+            },
+            {
+                "des": "밖에 나가 노는 것을 굉장히 귀찮아하지만 막상 나가면 제일 재밌게 노는 편입니다"
+            },
+            {
+                "des": "사람들 관심이 귀찮지만 내심 관심을 갈구하는 스타일입니다"
+            },
+            {
+                "des": "짜증은 내도 제대로 화를 내는 일은 거의 없습니다"
+            },
+            {
+                "des": "중요한 결정을 직접 맡게 되면 상당히 스트레스를 받습니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1976755613/ko/%EC%82%AC%EC%A7%84/%EB%A6%BD%EC%8A%A4%ED%8B%B1-%EB%98%90%EB%8A%94-%EC%95%84%ED%81%AC%EB%A6%B4-%EB%AC%BC%EA%B0%90%EC%9D%98-%EB%B2%88%EC%A7%90%EA%B3%BC-%EC%A7%88%EA%B0%90%EC%9D%B4-%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EA%B3%A0%EB%A6%BD%EB%90%98%EC%96%B4-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%A6%BD%EA%B8%80%EB%A1%9C%EC%8A%A4-%EB%98%90%EB%8A%94-%EC%95%A1%EC%B2%B4-%EB%A7%A4%EB%8B%88%ED%81%90%EC%96%B4-%EA%B2%AC%EB%B3%B8-%EC%96%BC%EB%A3%A9-%EC%83%98%ED%94%8C%EC%9D%98-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC-%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%80-%ED%99%94%EC%9E%A5%ED%92%88-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9A%94%EC%86%8C.jpg?s=612x612&w=0&k=20&c=hwIiCem6jLCgeZPPqoDpNzYsFYSLOKQlyYtFAyktogk=",
+                "subhead": "#b3eaa6",
+                "des": "ENTJ"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1157899358/ko/%EC%82%AC%EC%A7%84/%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EB%B6%84%EB%A6%AC-%EB%90%9C-%EC%BB%A8%EC%8B%A4%EB%9F%AC-%EB%A9%94%EC%9D%B4%ED%81%AC%EC%97%85-%EC%A0%9C%ED%92%88.jpg?s=612x612&w=0&k=20&c=FTq8rGAD_cJrYb0mVahc1pEaugIVJfnbu8UO0vuj0d8=",
+                "subhead": "#d6c7b9",
+                "des": "ENTP"
+            }
+        ]
+    },
+    "INFP": {
+        "id": "INFP",
+        "subhead": "INFP",
+        "subject": "#ec96ef",
+        "nickname": "잔다르크형",
+        "img": "https://media.istockphoto.com/id/1976774249/ko/%EC%82%AC%EC%A7%84/%ED%8E%98%EC%9D%B8%ED%8A%B8-%EB%B8%8C%EB%9F%AC%EC%8B%9C-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC-%ED%85%8D%EC%8A%A4%EC%B2%98-%EC%88%98%EC%B1%84%ED%99%94-%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EA%B3%A0%EB%A6%BD-%EB%90%9C.jpg?s=612x612&w=0&k=20&c=gbOj-cBR9B2-bghDvp3pTbignh0KDCTiFqKJ19leQzo=",
+        "description": [
+            {
+                "des": "남들과 똑같은 하루를 보내고 똑같은 장면을 봐도 그 순간을 영화처럼 기억하는 낭만적인 성격입니다"
+            },
+            {
+                "des": "무엇인가를 시작하기 귀찮아하지만 막상 시작하면 누구보다 집중하고 완벽하게 해냅니다"
+            },
+            {
+                "des": "생각과 걱정이 많은 편이지만 그 중 절반 이상이 쓸 데 없는 걱정인 경우가 많습니다"
+            },
+            {
+                "des": "세상을 보는 방식이 아름다워서 작은 일에도 크게 감동받고 소소한 것에 의미를 부여합니다"
+            },
+            {
+                "des": "아무리 사실이라도 상처받는 말을 하거나 듣는 것을 좋아하지 않습니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/184374694/ko/%EC%82%AC%EC%A7%84/%EC%95%A1%EC%B2%B4%ED%98%95-foundation-%EB%8F%84%EB%A7%90%EA%B2%80%EC%82%AC%EA%B0%80.jpg?s=612x612&w=0&k=20&c=Fn0XMNH_1Iq2CPi3nw4IWzUQuXvQrzPQtihQ96nPT9E=",
+                "subhead": "#ffbf96",
+                "des": "ESTJ"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1976781529/ko/%EC%82%AC%EC%A7%84/smear-and-texture-of-lipstick-or-acrylic-paint-isolated-on-white-background-stroke-of-lipgloss.jpg?s=612x612&w=0&k=20&c=16QLD-oDIqUfwyWBcZ6BDNVnRb14CwQAEU7j8MqTypw=",
+                "subhead": "#a9ebd6",
+                "des": "ESTP"
+            }
+        ]
+    },
+    "INTP": {
+        "id": "INTP",
+        "subhead": "INTP",
+        "subject": "#3f3f3f",
+        "nickname": "아이디어 뱅크형",
+        "img": "https://media.istockphoto.com/id/664241976/ko/%EC%82%AC%EC%A7%84/%EB%B8%94%EB%9E%99-%EB%A7%88%EC%8A%A4%EC%B9%B4%EB%9D%BC-%EB%B8%8C%EB%9F%AC%EC%89%AC-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC.jpg?s=612x612&w=0&k=20&c=ZDPeXHiu3GGAIKwL1Fmk-Jv2YVaO7jENYxv0caxIMSU=",
+        "description": [
+            {
+                "des": "혼자서도 재미있고 알차게 살아가는 독립적인 성격입니다"
+            },
+            {
+                "des": "얕은 인간관계보다는 소수의 깊은 관계를 선호합니다"
+            },
+            {
+                "des": "나에게 기대는 것을 부담스러워하고 남에게 잘 기대지 않는 편입니다"
+            },
+            {
+                "des": "똑똑한 편이라 남들이 풀지 못하는 어려운 문제를 분석하고 해결하는 재능이 있습니다"
+            },
+            {
+                "des": "논리적이고 이성적인 성격때문에 매력적이라고 느끼는 사람이 많습니다"
+            },
+            {
+                "des": "말을 많이 하는것을 좋아하지 않고 같은 질문을 반복하는 것에 극심한 스트레스를 받습니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1291334406/ko/%EC%82%AC%EC%A7%84/%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EB%85%B8%EB%9E%80%EC%83%89-%EC%95%A1%EC%B2%B4-%ED%8C%8C%EC%9A%B4%EB%8D%B0%EC%9D%B4%EC%85%98-%EC%96%BC%EB%A3%A9.jpg?s=612x612&w=0&k=20&c=eyVf8aZKExaAlDCQpOZWoyrRCaL6R6YWkZPsOplcZWs=",
+                "subhead": "#faee9d",
+                "des": "ESFJ"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/527113751/ko/%EC%82%AC%EC%A7%84/%EC%B2%AD%EC%83%89-%ED%8E%98%EC%9D%B8%ED%8A%B8.jpg?s=612x612&w=0&k=20&c=CFLD1DA_QZtt-T69dTr-UHXiphCAEgpU5Ly7oPrOIKc=",
+                "subhead": "#9fd8f9",
+                "des": "ESFP"
+            }
+        ]
+    },
+    "ESTP": {
+        "id": "ESTP",
+        "subhead": "ESTP",
+        "subject": "#a9ebd6",
+        "nickname": "수완좋은활동가형",
+        "img": "https://media.istockphoto.com/id/1976781529/ko/%EC%82%AC%EC%A7%84/smear-and-texture-of-lipstick-or-acrylic-paint-isolated-on-white-background-stroke-of-lipgloss.jpg?s=612x612&w=0&k=20&c=16QLD-oDIqUfwyWBcZ6BDNVnRb14CwQAEU7j8MqTypw=",
+        "description": [
+            {
+                "des": "밝고 재미있는 성격과는 반대로 은근히 낯을 가립니다"
+            },
+            {
+                "des": "문제가 생기면 이성적으로 판단하고 빠르게 해결 방법을 찾습니다"
+            },
+            {
+                "des": "반복되는 일을 굉장히 싫어하고 즉흥적인 성격이라 계획과는 거리가 먼 타입입니다"
+            },
+            {
+                "des": "시원하고 솔직해서 인기가 많은 편입니다"
+            },
+            {
+                "des": "장난을 진지하게 받아들이는 것을 매우 싫어합니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1976757939/ko/%EC%82%AC%EC%A7%84/smear-and-texture-of-lipstick-or-acrylic-paint-isolated-on-white-background-stroke-of-lipgloss.jpg?s=612x612&w=0&k=20&c=VY5CuqArEYm9irKuxIGYWqkkUxZfXXCvqObc0uEJ5as=",
+                "subhead": "#ccb1de",
+                "des": "INFJ"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1976774249/ko/%EC%82%AC%EC%A7%84/%ED%8E%98%EC%9D%B8%ED%8A%B8-%EB%B8%8C%EB%9F%AC%EC%8B%9C-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC-%ED%85%8D%EC%8A%A4%EC%B2%98-%EC%88%98%EC%B1%84%ED%99%94-%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EA%B3%A0%EB%A6%BD-%EB%90%9C.jpg?s=612x612&w=0&k=20&c=gbOj-cBR9B2-bghDvp3pTbignh0KDCTiFqKJ19leQzo=",
+                "subhead": "#ec96ef",
+                "des": "INFP"
+            }
+        ]
+    },
+    "ESFP": {
+        "id": "ESFP",
+        "subhead": "ESFP",
+        "subject": "#9fd8f9",
+        "nickname": "사교적인유형",
+        "img": "https://media.istockphoto.com/id/527113751/ko/%EC%82%AC%EC%A7%84/%EC%B2%AD%EC%83%89-%ED%8E%98%EC%9D%B8%ED%8A%B8.jpg?s=612x612&w=0&k=20&c=CFLD1DA_QZtt-T69dTr-UHXiphCAEgpU5Ly7oPrOIKc=",
+        "description": [
+            {
+                "des": "늘 즐거움을 추구하고 작은 즐거움에도 크게 기뻐합니다"
+            },
+            {
+                "des": "새로운 것에 대한 열정이 있고 늘 긍정적인 에너지를 분출합니다"
+            },
+            {
+                "des": "밝고 활기차며 사람과 어울리는 것을 즐기고 소통하는 것을 좋아합니다"
+            },
+            {
+                "des": "즉흥적인 성격에 다양한 경험을 좋아해서 새로운 도전을 자주하고 모헙을 즐깁니다"
+            },
+            {
+                "des": "갈등이 생기면 상황을 회피하거나 농담으로 무마하려는 편입니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1353349433/ko/%EC%82%AC%EC%A7%84/%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EB%B9%A8%EA%B0%84-%EB%A6%BD%EC%8A%A4%ED%8B%B1-%EC%A7%88%EA%B0%90-%ED%81%AC%EB%A6%BC-%EB%A9%94%EC%9D%B4%ED%81%AC%EC%97%85-%ED%85%8D%EC%8A%A4%EC%B2%98-%EB%B0%9D%EC%9D%80-%EB%B9%A8%EA%B0%84-%ED%99%94%EC%9E%A5%ED%92%88-%EB%B8%8C%EB%9F%AC%EC%8B%9C-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC-%EC%83%98%ED%94%8C.jpg?s=612x612&w=0&k=20&c=QIMW3_63euRtGkpnsBBWdyNwQP5RrlS6a3i2lRlnhMQ=",
+                "subhead": "#e63e4f",
+                "des": "INTJ"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/664241976/ko/%EC%82%AC%EC%A7%84/%EB%B8%94%EB%9E%99-%EB%A7%88%EC%8A%A4%EC%B9%B4%EB%9D%BC-%EB%B8%8C%EB%9F%AC%EC%89%AC-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC.jpg?s=612x612&w=0&k=20&c=ZDPeXHiu3GGAIKwL1Fmk-Jv2YVaO7jENYxv0caxIMSU=",
+                "subhead": "#3f3f3f",
+                "des": "INTP"
+            }
+        ]
+    },
+    "ENFP": {
+        "id": "ENFP",
+        "subhead": "ENFP",
+        "subject": "#d4f29c",
+        "nickname": "스파크형",
+        "img": "https://media.istockphoto.com/id/1976750696/ko/%EC%82%AC%EC%A7%84/paint-brush-stroke-texture-watercolor-isolated-on-a-white-background.jpg?s=612x612&w=0&k=20&c=DA8QFgxFgzTLbewh9sWBc6n0qfXvP_N0PgjcaCysdhw=",
+        "description": [
+            {
+                "des": "낯을 가리지만 관심받는 것을 좋아합니다"
+            },
+            {
+                "des": "친화력이 좋아서 어떤 상대와도 편하게 대화를 나눌 수 있습니다"
+            },
+            {
+                "des": "감정 기복이 심한 편이라 슬픈 일이 있어도 빨리 극복할 수 있습니다"
+            },
+            {
+                "des": "다른 사람과 있을 때는 활발하지만 집에 오면 의외로 차분하고 생각이 많아집니다"
+            },
+            {
+                "des": "지루함을 빨리 느끼기 때문에 한 가지 일을 오래 하지 못합니다"
+            },
+            {
+                "des": "말투에 예민한 편이기 때문에 말을 함부로 내뱉는 사람을 싫어합니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1468277874/ko/%EC%82%AC%EC%A7%84/%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EC%9C%A0%EC%84%B1-%ED%8E%98%EC%9D%B8%ED%8A%B8-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC-%EC%83%81%EC%9C%84-%EB%B7%B0.jpg?s=612x612&w=0&k=20&c=PnF6eOeWJDQwK-GpHVRQzMBLvL2ivpD-B0B71PJVSx8=",
+                "subhead": "#9d9c97",
+                "des": "ISTJ"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1215543810/ko/%EB%B2%A1%ED%84%B0/%ED%9D%B0%EC%83%89%EC%97%90-%EA%B2%A9%EB%A6%AC-%EB%B2%A1%ED%84%B0-%ED%8C%8C%EB%9E%80%EC%83%89-%ED%8E%98%EC%9D%B8%ED%8A%B8-%ED%85%8D%EC%8A%A4%EC%B2%98-%EC%95%84%ED%81%AC%EB%A6%B4-%ED%8E%98%EC%9D%B8%ED%8A%B8-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC.jpg?s=612x612&w=0&k=20&c=uOkmmz3yo5DSeqE8AXq9332Vj7lN1rtwvK4u5-rfl4c=",
+                "subhead": "#48518f",
+                "des": "ISTP"
+            }
+        ]
+    },
+    "ENTP": {
+        "id": "ENTP",
+        "subhead": "ENTP",
+        "subject": "#d6c7b9",
+        "nickname": "발명가형",
+        "img": "https://media.istockphoto.com/id/1157899358/ko/%EC%82%AC%EC%A7%84/%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EB%B6%84%EB%A6%AC-%EB%90%9C-%EC%BB%A8%EC%8B%A4%EB%9F%AC-%EB%A9%94%EC%9D%B4%ED%81%AC%EC%97%85-%EC%A0%9C%ED%92%88.jpg?s=612x612&w=0&k=20&c=FTq8rGAD_cJrYb0mVahc1pEaugIVJfnbu8UO0vuj0d8=",
+        "description": [
+            {
+                "des": "항상 자신감이 넘치고 겉과 속이 같은 성격입니다"
+            },
+            {
+                "des": "기본적으로 똑똑하고 다양한 분야에 걸쳐 아는 것이 많습니다"
+            },
+            {
+                "des": "대화를 잘 이끌어가는 편이고 같은 말도 더 재미있고 흥미롭게 하는 재주가 있습니다"
+            },
+            {
+                "des": "적당히 친하거나 알고 지내는 사람들은 많지만 깊은 관계를 유지하는 사람은 소수입니다"
+            },
+            {
+                "des": "상대방이 대답을 안하거나 애매한 대답을 하면 답답해서 죽을지도 모릅니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1133395849/ko/%EC%82%AC%EC%A7%84/%EC%B6%94%EC%83%81-%EC%95%84%ED%81%AC%EB%A6%B4-%EC%BB%AC%EB%9F%AC-%EB%B8%8C%EB%9F%AC%EC%8B%9C-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC%EC%9E%85%EB%8B%88%EB%8B%A4-%ED%9D%B0%EC%83%89-%EC%A0%88%EC%97%B0-%EB%B8%94-%EB%9F%BF.jpg?s=612x612&w=0&k=20&c=9NYMdyYK8oRq6pUJtrBOvTekPYtYj-pOBKSyKwllko8=",
+                "subhead": "#81b2ff",
+                "des": "ISFJ"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1186704033/ko/%EC%82%AC%EC%A7%84/%ED%9D%B0%EC%83%89%EC%97%90-%EA%B2%A9%EB%A6%AC-%EB%90%9C-%EC%88%98%EC%B1%84%ED%99%94-%EB%85%B8%EB%9E%80%EC%83%89-%ED%85%8D%EC%8A%A4%EC%B2%98-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC.jpg?s=612x612&w=0&k=20&c=blnq68DZSasC2ENcbxCeoNADTeo11NtzXO14utpa1Xs=",
+                "subhead": "#fff06d",
+                "des": "ISFP"
+            }
+        ]
+    },
+    "ESTJ": {
+        "id": "ESTJ",
+        "subhead": "ESTJ",
+        "subject": "#ffbf96",
+        "nickname": "사업가형",
+        "img": "https://media.istockphoto.com/id/184374694/ko/%EC%82%AC%EC%A7%84/%EC%95%A1%EC%B2%B4%ED%98%95-foundation-%EB%8F%84%EB%A7%90%EA%B2%80%EC%82%AC%EA%B0%80.jpg?s=612x612&w=0&k=20&c=Fn0XMNH_1Iq2CPi3nw4IWzUQuXvQrzPQtihQ96nPT9E=",
+        "description": [
+            {
+                "des": "문제점을 단번에 파악하고 해결할 수 있는 똑똑한 성격입니다"
+            },
+            {
+                "des": "조직 내에서도 합리적이지 않거나 비효율적인 것을 누구보다 빠르게 찾아냅니다"
+            },
+            {
+                "des": "기초가 탄탄한 스타일이고 규칙을 준수하며 남에게 피해를 주지 않습니다"
+            },
+            {
+                "des": "정직하고 책임감이 강하며 리더십이 있어 사람들이 잘 따릅니다"
+            },
+            {
+                "des": "돌려 말하는 것을 굉장히 싫어하기 때문에 결론을 먼저 말해주는 것이 좋습니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1976774249/ko/%EC%82%AC%EC%A7%84/%ED%8E%98%EC%9D%B8%ED%8A%B8-%EB%B8%8C%EB%9F%AC%EC%8B%9C-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC-%ED%85%8D%EC%8A%A4%EC%B2%98-%EC%88%98%EC%B1%84%ED%99%94-%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EA%B3%A0%EB%A6%BD-%EB%90%9C.jpg?s=612x612&w=0&k=20&c=gbOj-cBR9B2-bghDvp3pTbignh0KDCTiFqKJ19leQzo=",
+                "subhead": "#ec96ef",
+                "des": "INFP"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1976757939/ko/%EC%82%AC%EC%A7%84/smear-and-texture-of-lipstick-or-acrylic-paint-isolated-on-white-background-stroke-of-lipgloss.jpg?s=612x612&w=0&k=20&c=VY5CuqArEYm9irKuxIGYWqkkUxZfXXCvqObc0uEJ5as=",
+                "subhead": "#ccb1de",
+                "des": "INFJ"
+            }
+        ]
+    },
+    "ESFJ": {
+        "id": "ESFJ",
+        "subhead": "ESFJ",
+        "subject": "#faee9d",
+        "nickname": "친선도모형",
+        "img": "https://media.istockphoto.com/id/1291334406/ko/%EC%82%AC%EC%A7%84/%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EB%85%B8%EB%9E%80%EC%83%89-%EC%95%A1%EC%B2%B4-%ED%8C%8C%EC%9A%B4%EB%8D%B0%EC%9D%B4%EC%85%98-%EC%96%BC%EB%A3%A9.jpg?s=612x612&w=0&k=20&c=eyVf8aZKExaAlDCQpOZWoyrRCaL6R6YWkZPsOplcZWs=",
+        "description": [
+            {
+                "des": "상당히 사교적인 편이고 사람들이 모인 곳에서 늘 분위기 메이커가 되는 성격입니다"
+            },
+            {
+                "des": "대화가 끊겨서 조용해지는 순간이나 어색한 상황을 못 견디기 때문에 늘 먼저 말을 꺼냅니다"
+            },
+            {
+                "des": "상처받는 것과 오해받는 것을 굉장히 싫어해서 방어 기제가 있는 편입니다"
+            },
+            {
+                "des": "자기 자신을 내세우기보다 조화를 중시하는 편이라 팀워크 향상에 도움이 되고 조직에 잘 어울립니다"
+            },
+            {
+                "des": "자신에 대한 비판을 감성적으로 받아들이기 때문에 채찍보다는 당근을 주는 편이 좋습니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/664241976/ko/%EC%82%AC%EC%A7%84/%EB%B8%94%EB%9E%99-%EB%A7%88%EC%8A%A4%EC%B9%B4%EB%9D%BC-%EB%B8%8C%EB%9F%AC%EC%89%AC-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC.jpg?s=612x612&w=0&k=20&c=ZDPeXHiu3GGAIKwL1Fmk-Jv2YVaO7jENYxv0caxIMSU=",
+                "subhead": "#3f3f3f",
+                "des": "INTP"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1353349433/ko/%EC%82%AC%EC%A7%84/%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EB%B9%A8%EA%B0%84-%EB%A6%BD%EC%8A%A4%ED%8B%B1-%EC%A7%88%EA%B0%90-%ED%81%AC%EB%A6%BC-%EB%A9%94%EC%9D%B4%ED%81%AC%EC%97%85-%ED%85%8D%EC%8A%A4%EC%B2%98-%EB%B0%9D%EC%9D%80-%EB%B9%A8%EA%B0%84-%ED%99%94%EC%9E%A5%ED%92%88-%EB%B8%8C%EB%9F%AC%EC%8B%9C-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC-%EC%83%98%ED%94%8C.jpg?s=612x612&w=0&k=20&c=QIMW3_63euRtGkpnsBBWdyNwQP5RrlS6a3i2lRlnhMQ=",
+                "subhead": "#e63e4f",
+                "des": "INTJ"
+            }
+        ]
+    },
+    "ENFJ": {
+        "id": "ENFJ",
+        "subhead": "ENFJ",
+        "subject": "#f99fae",
+        "nickname": "언변능숙형",
+        "img": "https://media.istockphoto.com/id/1976756138/ko/%EC%82%AC%EC%A7%84/%EB%A6%BD%EC%8A%A4%ED%8B%B1-%EB%98%90%EB%8A%94-%EC%95%84%ED%81%AC%EB%A6%B4-%EB%AC%BC%EA%B0%90%EC%9D%98-%EB%B2%88%EC%A7%90%EA%B3%BC-%EC%A7%88%EA%B0%90%EC%9D%B4-%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EA%B3%A0%EB%A6%BD%EB%90%98%EC%96%B4-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%A6%BD%EA%B8%80%EB%A1%9C%EC%8A%A4-%EB%98%90%EB%8A%94-%EC%95%A1%EC%B2%B4-%EB%A7%A4%EB%8B%88%ED%81%90%EC%96%B4-%EA%B2%AC%EB%B3%B8-%EC%96%BC%EB%A3%A9-%EC%83%98%ED%94%8C%EC%9D%98-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC-%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%80-%ED%99%94%EC%9E%A5%ED%92%88-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9A%94%EC%86%8C.jpg?s=612x612&w=0&k=20&c=yJTbQQCWAxUxnZvvBwDFM10ToV2UnAkq-P_thaDkkYI=",
+        "description": [
+            {
+                "des": "주변 사람에게 좋은 영향력을 주는 성격입니다"
+            },
+            {
+                "des": "기분이 안좋아 보이거나 소외되어 있는 친구를 먼저 챙겨줄 정도로 사람에게 관심이 많고 좋아합니다"
+            },
+            {
+                "des": "주변 사람들에게 워낙 잘해주는 편이라 늘 해준 만큼 받지 못하고 손해보는 타입입니다"
+            },
+            {
+                "des": "단점보단 장점을 보려고 해서 주변의 미움을 살 일이 거의 없습니다"
+            },
+            {
+                "des": "남들보다 많이 배려하고 호의를 베푸는 성격이지만 이 점을 당연하게 여기면 안됩니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1215543810/ko/%EB%B2%A1%ED%84%B0/%ED%9D%B0%EC%83%89%EC%97%90-%EA%B2%A9%EB%A6%AC-%EB%B2%A1%ED%84%B0-%ED%8C%8C%EB%9E%80%EC%83%89-%ED%8E%98%EC%9D%B8%ED%8A%B8-%ED%85%8D%EC%8A%A4%EC%B2%98-%EC%95%84%ED%81%AC%EB%A6%B4-%ED%8E%98%EC%9D%B8%ED%8A%B8-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC.jpg?s=612x612&w=0&k=20&c=uOkmmz3yo5DSeqE8AXq9332Vj7lN1rtwvK4u5-rfl4c=",
+                "subhead": "#48518f",
+                "des": "ISTP"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1468277874/ko/%EC%82%AC%EC%A7%84/%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EC%9C%A0%EC%84%B1-%ED%8E%98%EC%9D%B8%ED%8A%B8-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC-%EC%83%81%EC%9C%84-%EB%B7%B0.jpg?s=612x612&w=0&k=20&c=PnF6eOeWJDQwK-GpHVRQzMBLvL2ivpD-B0B71PJVSx8=",
+                "subhead": "#9d9c97",
+                "des": "ISTJ"
+            }
+        ]
+    },
+    "ENTJ": {
+        "id": "ENTJ",
+        "subhead": "ENTJ",
+        "subject": "#b3eaa6",
+        "nickname": "지도자형",
+        "img": "https://media.istockphoto.com/id/1976755613/ko/%EC%82%AC%EC%A7%84/%EB%A6%BD%EC%8A%A4%ED%8B%B1-%EB%98%90%EB%8A%94-%EC%95%84%ED%81%AC%EB%A6%B4-%EB%AC%BC%EA%B0%90%EC%9D%98-%EB%B2%88%EC%A7%90%EA%B3%BC-%EC%A7%88%EA%B0%90%EC%9D%B4-%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EA%B3%A0%EB%A6%BD%EB%90%98%EC%96%B4-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EB%A6%BD%EA%B8%80%EB%A1%9C%EC%8A%A4-%EB%98%90%EB%8A%94-%EC%95%A1%EC%B2%B4-%EB%A7%A4%EB%8B%88%ED%81%90%EC%96%B4-%EA%B2%AC%EB%B3%B8-%EC%96%BC%EB%A3%A9-%EC%83%98%ED%94%8C%EC%9D%98-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC-%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%80-%ED%99%94%EC%9E%A5%ED%92%88-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9A%94%EC%86%8C.jpg?s=612x612&w=0&k=20&c=hwIiCem6jLCgeZPPqoDpNzYsFYSLOKQlyYtFAyktogk=",
+        "description": [
+            {
+                "des": "목표에 도달하기 위해 가장 효율적인 방법을 찾아서 성취하는 성격입니다"
+            },
+            {
+                "des": "리더십이 뛰어나 모두를 이끌기 좋은 타입입니다"
+            },
+            {
+                "des": "한계를 정해두지 않기 때문에 무한한 성장 가능성이 있고 주변 사람에게 좋은 영향을 끼칠 수 있습니다"
+            },
+            {
+                "des": "사전 준비가 철저한 스타일이라 장기적인 계획에 강합니다"
+            },
+            {
+                "des": "무능력한 사람이 나를 가르치려고 하는 것을 굉장히 싫어합니다"
+            }
+        ],
+        "duo": [
+            {
+                "img": "https://media.istockphoto.com/id/1186704033/ko/%EC%82%AC%EC%A7%84/%ED%9D%B0%EC%83%89%EC%97%90-%EA%B2%A9%EB%A6%AC-%EB%90%9C-%EC%88%98%EC%B1%84%ED%99%94-%EB%85%B8%EB%9E%80%EC%83%89-%ED%85%8D%EC%8A%A4%EC%B2%98-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC.jpg?s=612x612&w=0&k=20&c=blnq68DZSasC2ENcbxCeoNADTeo11NtzXO14utpa1Xs=",
+                "subhead": "#fff06d",
+                "des": "ISFP"
+            }
+        ],
+        "counter": [
+            {
+                "img": "https://media.istockphoto.com/id/1133395849/ko/%EC%82%AC%EC%A7%84/%EC%B6%94%EC%83%81-%EC%95%84%ED%81%AC%EB%A6%B4-%EC%BB%AC%EB%9F%AC-%EB%B8%8C%EB%9F%AC%EC%8B%9C-%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%81%AC%EC%9E%85%EB%8B%88%EB%8B%A4-%ED%9D%B0%EC%83%89-%EC%A0%88%EC%97%B0-%EB%B8%94-%EB%9F%BF.jpg?s=612x612&w=0&k=20&c=9NYMdyYK8oRq6pUJtrBOvTekPYtYj-pOBKSyKwllko8=",
+                "subhead": "#81b2ff",
+                "des": "ISFJ"
+            }
+        ]
+    }
 }
